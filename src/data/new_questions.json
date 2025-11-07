@@ -1,0 +1,3096 @@
+{
+  "54a2c0cc-6503-434d-a9b8-ff4a6b7efda0": [
+    {
+      "message": "no puedo ingresar para saber si debo por concepto de rete ica",
+      "timestamp": 1759440699049,
+      "context": [],
+      "topScore": 0.6311461258387588
+    }
+  ],
+  "962ec03b-f297-4abe-896d-83980b8d7e15": [
+    {
+      "message": "REQUISITOS DE CANCELACIÓN RITY",
+      "timestamp": 1759509257986,
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuesto de delineación urbana, frecuencia de pago, licencias de construcción]\n\nPregunta: ¿Con qué frecuencia se debe cancelar el Impuesto de Delineación Urbana?Respuesta: El impuesto debe pagarse por cada trámite de licencia de construcción, incluyendo: obra nueva, demolición, ampliación, modificación, remodelación, adecuación, reforzamiento estructural, cerramientos y reconocimiento de construcciones existentes en Yopal.\n\nCategoría: Secretaría de Hacienda – RITYTags: [rity, registro tributario, contribuyentes]\n\nPregunta: ¿Qué es el RITY y cómo se descarga?Respuesta: El RITY es el mecanismo único para identificar, clasificar y ubicar a contribuyentes y sujetos con obligaciones tributarias administradas por la Secretaría de Hacienda de Yopal. Para obtenerlo, debes registrarte en el portal de impuestos Yopal, diligenciar el formulario y luego imprimir o descargar el documento.Más información en: [https://impuestos.yopal.gov.co](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6856194211714424
+    },
+    {
+      "message": "INFORMACIÓN EXOGENA",
+      "timestamp": 1759519161615,
+      "context": [],
+      "topScore": 0.602998664803471
+    },
+    {
+      "message": "CAMBIO DE CORREO",
+      "timestamp": 1759519223704,
+      "context": [],
+      "topScore": 0.6106615029169916
+    }
+  ],
+  "2df1103d-7382-459c-972c-39be1ee07c4e": [
+    {
+      "message": "estoy tratando de liquidar el ICA que vence hoy",
+      "timestamp": 1759519522076,
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY."
+      ],
+      "topScore": 0.655026802032773
+    }
+  ],
+  "af5197cc-1420-4e1f-a9ea-ad7ec8777caf": [
+    {
+      "message": "cual es la normatividad para reporte de información exógena",
+      "timestamp": 1759525000941,
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [ica, declaración bimestral, personas jurídicas]\n\nPregunta: ¿Quiénes deben presentar la declaración bimestral del ICA?Respuesta: Deben presentarla las personas jurídicas, entidades asimiladas y personas naturales clasificadas en el régimen común del ICA.Más detalles en: [https://www.yopal-casanare.gov.co/tema/normatividad/](https://www.yopal-casanare.gov.co/tema/normatividad/)"
+      ],
+      "topScore": 0.6672068072157109
+    }
+  ],
+  "c19edafd-4f69-4efd-89ab-405a3387c456": [
+    {
+      "message": "no me llega el correo para recordar la contraseña",
+      "timestamp": 1759757214182,
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [universo online, recuperación, contraseña]\n\nPregunta: ¿Cómo recupero mi cuenta o contraseña en Universo Online?\n\nRespuesta: Ingresa al sistema y selecciona la opción “registrarse”. Haz clic en “Si ha perdido los datos para ingresar al sistema de clic aquí”. Los datos serán enviados al correo electrónico registrado.\n\nMás información: [https://impuestos.yopal.gov.co](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6587622454552653
+    }
+  ],
+  "a32e52b2-d627-416e-92e5-70446cdd12df": [
+    {
+      "message": "me puedes compartir el RUT de la alcaldia",
+      "timestamp": "07/10/2025, 13:03:25",
+      "context": [],
+      "topScore": 0.6482955349017713
+    }
+  ],
+  "c99a155b-a843-4f66-a7be-d0ef645f5814": [
+    {
+      "message": "cual es el rut de la alcaldia?",
+      "timestamp": "07/10/2025, 14:43:34",
+      "context": [],
+      "topScore": 0.6146342303760939
+    }
+  ],
+  "da78abfd-7c00-4e12-8631-a80d41e0c531": [
+    {
+      "message": "como me puedo comunicar con rentas nai contesta",
+      "timestamp": "07/10/2025, 15:32:51",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY."
+      ],
+      "topScore": 0.6753721677812689
+    },
+    {
+      "message": "cordial saludo ",
+      "timestamp": "31/10/2025, 15:36:56",
+      "context": [],
+      "topScore": 0.6302075629046836
+    }
+  ],
+  "06e30dff-831a-46c3-9817-0911b539b09f": [
+    {
+      "message": "Necesito un paz y Salvo del impuesto predial",
+      "timestamp": "08/10/2025, 08:40:17",
+      "context": [],
+      "topScore": 0
+    }
+  ],
+  "5102bc93-c1fe-4a57-89df-f0a578d3df0c": [
+    {
+      "message": "no tengo el dato que menciona en el numeral 3",
+      "timestamp": "09/10/2025, 19:19:16",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Catastro\n\nTags: [predial, catastro, errores de base de datos]\n\nPregunta: ¿Qué hacer si mi predio no aparece con mi número de cédula?\n\nRespuesta: Debes dirigirte a la oficina de Catastro para corregir errores en nombre, cédula, dirección, avalúos o metrajes."
+      ],
+      "topScore": 0.6593683509445764
+    },
+    {
+      "message": "me puede proporcionar el enlace donde debo ingresar",
+      "timestamp": "09/10/2025, 19:23:36",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [comprobante de ingreso, CACY, trámites]\n\nPregunta: ¿Dónde puedo obtener mi comprobante de ingreso?\n\nRespuesta: Debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal), solicitar turno e indicar lo que necesita."
+      ],
+      "topScore": 0.6860604146709715
+    }
+  ],
+  "aecdf668-f86e-4d6b-8017-660a2e8cf5be": [
+    {
+      "message": "UN FAOR QUIERO SABER SI En el formato F-SHY05 se deben reportar los servicios y compras a los que se le aplicaron retención?",
+      "timestamp": "10/10/2025, 11:42:26",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [paz y salvo, CACY, trámites]\n\nPregunta: ¿Cómo puedo solicitar un paz y salvo?\n\nRespuesta: Debe presentarse a la oficina del CACY (Centro de Atención al Ciudadano de Yopal), solicitar turno e indicar lo que necesita."
+      ],
+      "topScore": 0.6741330440793071
+    },
+    {
+      "message": "F-SHY05",
+      "timestamp": "10/10/2025, 11:42:45",
+      "context": [],
+      "topScore": 0.6109322942327872
+    }
+  ],
+  "212ddc5a-c34a-4f2b-9015-907adaf53425": [
+    {
+      "message": "ya lo solicite",
+      "timestamp": "10/10/2025, 14:25:59",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6727904841597199
+    },
+    {
+      "message": "corregir datos",
+      "timestamp": "10/10/2025, 14:28:41",
+      "context": [],
+      "topScore": 0.6309064287865295
+    }
+  ],
+  "fa18063f-d1f2-4478-ac02-421825b7a997": [
+    {
+      "message": "que es cacy",
+      "timestamp": "10/10/2025, 15:25:31",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Finanzas Municipales\n\nTags: [comprobante de ingreso, CACY, pagos]\n\nPregunta: ¿Dónde puedo obtener mi comprobante de ingreso?\n\nRespuesta: En las oficinas del Centro de Atención al Ciudadano de Yopal (CACY)."
+      ],
+      "topScore": 0.6553443330257797
+    }
+  ],
+  "0bab01b7-ae64-47e5-be04-b8cb2bc1d9f9": [
+    {
+      "message": "Quiero saber acerca de un embargo en mi nombre ",
+      "timestamp": "15/10/2025, 09:20:04",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, registro, cuentas bancarias]\n\nPregunta: ¿Qué es la solicitud de registro de embargo?\n\nRespuesta: Es un oficio enviado a los bancos para el bloqueo de cuentas por deudas con el municipio."
+      ],
+      "topScore": 0.6953321286192219
+    },
+    {
+      "message": "Embargos",
+      "timestamp": "15/10/2025, 09:20:25",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, levantamiento, pagos]\n\nPregunta: ¿Qué debo hacer para levantar un embargo?\n\nRespuesta: Pagar la totalidad de la deuda y radicar los soportes en el CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6816095955559226
+    }
+  ],
+  "c8a20178-9afe-4d41-8995-723ee42e85a0": [
+    {
+      "message": "necesito el estatuto de rentas de sutedes",
+      "timestamp": "15/10/2025, 12:31:40",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [vehículos públicos, impuestos, documentos]\n\nPregunta: ¿Qué documentos necesito para liquidar el impuesto de vehículos públicos?\n\nRespuesta: La tarjeta de propiedad del vehículo."
+      ],
+      "topScore": 0.6962297151522537
+    }
+  ],
+  "d70d0d26-93c0-4b68-abb3-7b4317d9311a": [
+    {
+      "message": "es con una duda de la exogena",
+      "timestamp": "15/10/2025, 15:36:19",
+      "context": [],
+      "topScore": 0.6194109389169921
+    },
+    {
+      "message": "quiero saber que formatos de exógena debo diligenciar?",
+      "timestamp": "22/10/2025, 14:13:42",
+      "context": [
+        "Categoría: Planeación – SISBÉN\n\nTags: [SISBÉN, extranjeros, PPT, cédula de extranjería]\n\nPregunta: ¿Qué documentos deben presentar los ciudadanos extranjeros para solicitar la encuesta del SISBÉN?\n\nRespuesta: Pueden presentar:\n\nCédula de extranjería.\n\nPermiso de Protección Temporal (PPT).\n\nSalvoconducto para refugiado (aplica especialmente para personas venezolanas)."
+      ],
+      "topScore": 0.6539571330370699
+    },
+    {
+      "message": "agente",
+      "timestamp": "22/10/2025, 14:13:52",
+      "context": [],
+      "topScore": 0.6168086433700363
+    }
+  ],
+  "e7ddffae-8e0b-4b83-a700-8b53845fe5b2": [
+    {
+      "message": "Necesito una ficha predial",
+      "timestamp": "15/10/2025, 19:39:09",
+      "context": [
+        "Categoría: Planeación\n\nTags: [veredas, certificado de existencia, planeación]\n\nPregunta: ¿Cómo solicito un certificado de existencia de una vereda en Yopal?\n\nRespuesta: A través de la Secretaría de Planeación, enviando un correo a contactenos@yopal-casanare.gov.co"
+      ],
+      "topScore": 0.6723647133403978
+    }
+  ],
+  "4fcfd958-6104-48d2-a7f7-e88a091e8087": [
+    {
+      "message": "Quisiera saber como veo el avaluo catastral de un predio del 2024",
+      "timestamp": "16/10/2025, 11:08:12",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, consulta valor, pago, cédula catastral]\n\nPregunta: ¿Cómo puedo consultar el valor a pagar del Impuesto Predial?\n\nRespuesta: Puedes hacerlo en línea desde el portal web de la Alcaldía con la cédula catastral, o presencialmente en el CACY llevando cédula catastral, documento de identidad, dirección del predio o matrícula inmobiliaria."
+      ],
+      "topScore": 0.687464920702512
+    }
+  ],
+  "4db01a3b-01ed-4feb-a725-56d9cdcbf58f": [
+    {
+      "message": "tengo un problema con la exogena",
+      "timestamp": "16/10/2025, 16:21:21",
+      "context": [],
+      "topScore": 0.6310664578404925
+    }
+  ],
+  "ba5f4641-2def-44e1-97cb-ef7c2aace26a": [
+    {
+      "message": "instrutivo exogena",
+      "timestamp": "17/10/2025, 11:03:28",
+      "context": [],
+      "topScore": 0.6034511226921939
+    },
+    {
+      "message": "exogena",
+      "timestamp": "17/10/2025, 11:03:44",
+      "context": [],
+      "topScore": 0.5818142231992371
+    },
+    {
+      "message": "necesito ayuda de un asesor",
+      "timestamp": "17/10/2025, 11:12:29",
+      "context": [
+        "Categoría: Comunicación con un AsesorTags: [asesor, atención al ciudadano, contacto, teléfono]Pregunta: ¿Cómo puedo comunicarme con un asesor?Respuesta: Puedes comunicarte con la Alcaldía a través del número de atención al ciudadano 6086345913. Las extensiones disponibles para recepción y atención al ciudadano son 1000, 1001 y 1002."
+      ],
+      "topScore": 0.6920827032780672
+    }
+  ],
+  "33f23fb6-4d1f-44d3-b85a-de41facb5df7": [
+    {
+      "message": "error en la plataforma para subir exógena",
+      "timestamp": "17/10/2025, 15:49:43",
+      "context": [],
+      "topScore": 0.6024730381850747
+    }
+  ],
+  "4db52d55-9416-49aa-b7f3-8e775dd3cade": [
+    {
+      "message": "ME LLENO NOTIFICACION QUE NO ME PRESENTE PERO TENGO EL RADICADO QUE SI ME PRESENTE ",
+      "timestamp": "18/10/2025, 10:10:41",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, CACY, firma electrónica]Pregunta: ¿No me aparece para firmar una declaración?Respuesta:\n\nPuedes acercarte al CACY (Centro de Atención al Ciudadano de Yopal), módulo 11, solicitar turno y allí te ayudarán a solucionar el inconveniente que presentas.\n\nTambién puedes revisar el instructivo para generar la firma electrónica en el siguiente enlace: [Instructivo](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6599334936905068
+    },
+    {
+      "message": "ASESOR",
+      "timestamp": "18/10/2025, 10:11:00",
+      "context": [],
+      "topScore": 0.6399012973112757
+    }
+  ],
+  "43abee48-5244-46b9-bcb8-3cc508c32ad7": [
+    {
+      "message": "EXOGENA",
+      "timestamp": "20/10/2025, 10:02:10",
+      "context": [],
+      "topScore": 0.6162378012384387
+    }
+  ],
+  "97978d06-49eb-414d-9849-80d829ec5966": [
+    {
+      "message": "requiero la direccion de correo electronico para radicar un reuros en hacienda",
+      "timestamp": "20/10/2025, 12:23:16",
+      "context": [
+        "Categoría: Secretaría de planeaciónTags: [estratificación, dirección, planeación, certificado]Pregunta: ¿Qué pasa si la estratificación cambió la dirección de mi casa?Respuesta: Debes acercarte a la Secretaría de Planeación para solicitar el certificado de estratificación o realizar el proceso en línea a través del portal(estratificación)[https://yopal.gov.co/estratificacion/estratifica_online/]. Cabe resaltar que este trámite no aplica para la primera solicitud de dirección."
+      ],
+      "topScore": 0.6777649651896702
+    }
+  ],
+  "00f02049-c071-4faf-9a6e-e0756a12088e": [
+    {
+      "message": "Esa dirección no la encuentro ",
+      "timestamp": "20/10/2025, 15:24:54",
+      "context": [],
+      "topScore": 0.6251096660594115
+    }
+  ],
+  "5ebbdb91-50b8-4817-a7b2-82a7087e8ede": [
+    {
+      "message": "no se puede solicitar de manera virtual estoy en Bogota",
+      "timestamp": "20/10/2025, 16:11:52",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [certificado, residencia, CACY, trámite en línea]Pregunta: ¿Cómo puedo obtener el certificado de residencia?Respuesta: Puedes acercarte al CACY (Centro de Atención al Ciudadano de Yopal)  y sacar turno para realizar el proceso de forma presencial, o hacerlo en línea a través del sitio web (certificado)[https://yopal.gov.co/certificados/appyopal/]"
+      ],
+      "topScore": 0.6830440232391006
+    }
+  ],
+  "00f8961b-8763-4316-b15d-3730f0228c65": [
+    {
+      "message": "necesito saber que tramites puedo realizar totalmente de forma virtual",
+      "timestamp": "20/10/2025, 16:51:24",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [acuerdo de pago, trámites presenciales, CACY]\n\nPregunta: ¿Debe uno ir personalmente a realizar el proceso?\n\nRespuesta: Sí, el proceso debe hacerse presencialmente en la oficina del CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6978382841483615
+    }
+  ],
+  "ea3de609-0714-49a7-8348-a1235407c540": [
+    {
+      "message": "la ultima que emitieron la mas actualizada por favor ",
+      "timestamp": "21/10/2025, 10:11:12",
+      "context": [],
+      "topScore": 0.6464525563633843
+    }
+  ],
+  "24e95a70-c5d3-42f7-b2ec-768f838897a1": [
+    {
+      "message": "el portal tributario (exogena) no deja ingresar",
+      "timestamp": "22/10/2025, 08:17:59",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Finanzas Municipales\n\nTags: [comprobante de ingreso, pagos, impuestos]\n\nPregunta: ¿Qué es un comprobante de ingreso?\n\nRespuesta: Es un documento que certifica que un contribuyente realizó un pago por impuesto, tasa o contribución al municipio."
+      ],
+      "topScore": 0.6513308663147593
+    }
+  ],
+  "ff60e919-ae82-4664-8855-6992f372b4c4": [
+    {
+      "message": "como hago para saber que es lo que tengo en sancion con el municipio",
+      "timestamp": "22/10/2025, 10:14:25",
+      "context": [
+        "Categoría: Secretaría de planeaciónTags: [delineación urbana, pago, liquidación, planeación]Pregunta: ¿Cómo puedo pagar la delineación urbana? | ¿Cómo puedo pagar el recibo de delineación urbana? | ¿Cómo puedo pagar el impuesto de delineación urbana?Respuesta: Debes acercarte a la Secretaría de Planeación, ubicada en el CACY (Centro de Atención al Ciudadano de Yopal), módulo 15, donde te brindarán la información y los requisitos para realizar la liquidación. También lo puedes consultar en línea a través del portal oficial del municipio [delineación urbana] (https://impuestos.yopal.gov.co/)"
+      ],
+      "topScore": 0.6871166169005547
+    }
+  ],
+  "3e616302-6ecf-4583-96c3-71315a1c6faf": [
+    {
+      "message": "Para aver si salió lo de la nomenclatura ",
+      "timestamp": "22/10/2025, 11:23:21",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [nomenclatura, dirección, estratificación, planeación]Pregunta: ¿Dónde puedo ver la nomenclatura de mi casa?Respuesta: Debes acercarte a la Secretaría de Planeación para solicitar el certificado de estratificación o realizar el proceso en línea a través del portal [Nomenclatura](https://yopal.gov.co/estratificacion/estratifica_online/). Cabe resaltar que este trámite no aplica para la primera solicitud de dirección."
+      ],
+      "topScore": 0.6650301349878913
+    }
+  ],
+  "913a8443-6e36-4649-9708-3a57515f52a5": [
+    {
+      "message": "Puedo pagar  sin problema, mi propiedad, en el recibo aparece a nombre de una JAC y un NIT 99999999, Catasig no ha corregido  predial",
+      "timestamp": "22/10/2025, 12:06:42",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Catastro\n\nTags: [predial, catastro, errores de base de datos]\n\nPregunta: ¿Qué hacer si mi predio no aparece con mi número de cédula?\n\nRespuesta: Debes dirigirte a la oficina de Catastro para corregir errores en nombre, cédula, dirección, avalúos o metrajes."
+      ],
+      "topScore": 0.6883634267004403
+    }
+  ],
+  "4f57004c-fb54-4ca4-aa22-85e1b2339897": [
+    {
+      "message": "Hice una solicitud de suspensión de embargo la semana pasada ",
+      "timestamp": "22/10/2025, 19:35:00",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, registro, cuentas bancarias]\n\nPregunta: ¿Qué es la solicitud de registro de embargo?\n\nRespuesta: Es un oficio enviado a los bancos para el bloqueo de cuentas por deudas con el municipio."
+      ],
+      "topScore": 0.6641498719768704
+    },
+    {
+      "message": "Bueno ",
+      "timestamp": "22/10/2025, 19:35:07",
+      "context": [],
+      "topScore": 0.5849525946167171
+    }
+  ],
+  "9b5cfddd-6e7c-4cdb-932d-4773ee1c4a49": [
+    {
+      "message": "no me deja entrar a ese enlace",
+      "timestamp": "23/10/2025, 13:27:07",
+      "context": [],
+      "topScore": 0.6355971826186143
+    }
+  ],
+  "bffecafd-aa52-4dda-8774-5e36bdfc14fd": [
+    {
+      "message": "Me gustaría saber cuales son los tramites para solicitar una copia de mi licencia de conducción ",
+      "timestamp": "23/10/2025, 14:43:37",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [comprobante de ingreso, duplicado, trámites]\n\nPregunta: ¿Puedo solicitar un duplicado si pierdo mi comprobante de ingreso?\n\nRespuesta: Sí. Acérquese al CACY (Centro de Atención al Ciudadano de Yopal)  con su documento de identidad y los datos del pago."
+      ],
+      "topScore": 0.6870434783580662
+    }
+  ],
+  "0fda032f-8b4c-4176-a302-9726d51cf34b": [
+    {
+      "message": "Cuánto es 2*2",
+      "timestamp": "23/10/2025, 18:08:20",
+      "context": [],
+      "topScore": 0.6202923049381588
+    },
+    {
+      "message": "Que sabes?",
+      "timestamp": "23/10/2025, 18:08:29",
+      "context": [],
+      "topScore": 0.6110918717857348
+    },
+    {
+      "message": "Adios",
+      "timestamp": "23/10/2025, 18:10:48",
+      "context": [],
+      "topScore": 0.572389481051991
+    },
+    {
+      "message": "Ayuda",
+      "timestamp": "23/10/2025, 18:10:53",
+      "context": [
+        "Categoría: Secretaría de Salud\n\nTags: [salud, contacto, atención]\n\nPregunta: ¿Cuál es el número de teléfono de la Secretaría de Salud?\n\nRespuesta: 608 634 5913 Ext. 1007"
+      ],
+      "topScore": 0.6526377092376554
+    },
+    {
+      "message": "Quien es Tobias?",
+      "timestamp": "23/10/2025, 18:11:56",
+      "context": [],
+      "topScore": 0.6427030371017031
+    }
+  ],
+  "69397717-4206-4723-bca9-36a25116da76": [
+    {
+      "message": "Graciss",
+      "timestamp": "23/10/2025, 21:10:27",
+      "context": [],
+      "topScore": 0.5684654343303615
+    }
+  ],
+  "9c850017-8adf-442b-acc8-08027357b109": [
+    {
+      "message": "NO SE PUEDE VIRTUAL",
+      "timestamp": "23/10/2025, 22:34:07",
+      "context": [],
+      "topScore": 0.6281469009416245
+    }
+  ],
+  "1fcf9113-115e-4dc8-9200-f863c1a6e58e": [
+    {
+      "message": "medios mageneticos",
+      "timestamp": "24/10/2025, 08:08:31",
+      "context": [],
+      "topScore": 0.6066342444579849
+    },
+    {
+      "message": "el link no me sirve",
+      "timestamp": "24/10/2025, 08:13:13",
+      "context": [],
+      "topScore": 0.608460516804213
+    }
+  ],
+  "09c4b130-6f70-466c-96cd-4749b738a570": [
+    {
+      "message": "me sacaron un comparendo por no llevar casco",
+      "timestamp": "24/10/2025, 08:12:48",
+      "context": [],
+      "topScore": 0.5974742308814424
+    },
+    {
+      "message": "el viernes de la semana pasada",
+      "timestamp": "24/10/2025, 08:12:57",
+      "context": [],
+      "topScore": 0.566115690796599
+    }
+  ],
+  "0b143395-87fd-4aea-b231-e4f7a4dccac0": [
+    {
+      "message": "la estampilla justicia a que contratos aplica ",
+      "timestamp": "24/10/2025, 08:27:57",
+      "context": [],
+      "topScore": 0.6487505232308723
+    }
+  ],
+  "e94d46a8-295a-4e85-96e6-f66444cab507": [
+    {
+      "message": "No se puede hacer virtual ",
+      "timestamp": "24/10/2025, 08:46:09",
+      "context": [],
+      "topScore": 0.6217898110532739
+    }
+  ],
+  "4a93aa4c-e09d-418d-a91f-aba561269fc4": [
+    {
+      "message": "Cómo hago para sacar cita para inscribirme en el Runt ",
+      "timestamp": "24/10/2025, 08:56:19",
+      "context": [
+        "Categoría: Salud\n\nTags: [tanatopraxia, laboratorio, comprobante de ingreso]\n\nPregunta: ¿Cómo solicito un comprobante de ingreso de uso del laboratorio de tanatopraxia?\n\nRespuesta: Consigna $40.000 por cada uso del laboratorio. Luego acude al CACY (Centro de Atención al Ciudadano de Yopal)  en la Alcaldía de Yopal con el comprobante de pago para realizar la solicitud."
+      ],
+      "topScore": 0.6794679876798393
+    }
+  ],
+  "75245353-ea71-4254-abcc-672b4600a4c5": [
+    {
+      "message": "contacto hacienda",
+      "timestamp": "24/10/2025, 09:54:43",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [hacienda, despacho, contacto]\n\nPregunta: ¿Cuál es el número de teléfono del Despacho de la Secretaría de Hacienda?\n\nRespuesta: 608 634 5913 Ext. 1011"
+      ],
+      "topScore": 0.6979000476137791
+    },
+    {
+      "message": "numero alcaldia",
+      "timestamp": "24/10/2025, 09:54:55",
+      "context": [
+        "Categoría: contacto alcaldía\n\nTags: [contacto, teléfono, atención al ciudadano]\n\nPregunta: ¿Cuál es el número de teléfono de la Alcaldía?\n\nRespuesta: Recepción (Atención al ciudadano): 608 634 5913 Ext. 1000, 1001, 1002"
+      ],
+      "topScore": 0.6898662981686514
+    },
+    {
+      "message": "hacienda",
+      "timestamp": "24/10/2025, 09:55:07",
+      "context": [],
+      "topScore": 0.6498237822471598
+    }
+  ],
+  "5fa6833b-6024-4c9a-8bf0-2d89ade32b66": [
+    {
+      "message": "estoy en la pagina subiendo la exogena ",
+      "timestamp": "24/10/2025, 13:47:54",
+      "context": [],
+      "topScore": 0.6323921640451222
+    },
+    {
+      "message": "y no logro subir el archivo de los ingresos para terceros formato SHY40 porque me arroja error del codigo del municipio , verificando veo que el codigo esta correcto pero igual no lo acepta",
+      "timestamp": "24/10/2025, 13:49:23",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Finanzas Municipales\n\nTags: [comprobante de ingreso, CACY, pagos]\n\nPregunta: ¿Dónde puedo obtener mi comprobante de ingreso?\n\nRespuesta: En las oficinas del Centro de Atención al Ciudadano de Yopal (CACY)."
+      ],
+      "topScore": 0.6588827235179945
+    },
+    {
+      "message": "porfa",
+      "timestamp": "24/10/2025, 13:53:42",
+      "context": [],
+      "topScore": 0.590310906055672
+    },
+    {
+      "message": "me lo puedes comunciar",
+      "timestamp": "24/10/2025, 13:54:54",
+      "context": [],
+      "topScore": 0.6321656212856951
+    }
+  ],
+  "84cf4db9-f974-4119-a8e6-3cb860dc9e0d": [
+    {
+      "message": "Consultar",
+      "timestamp": "24/10/2025, 14:23:44",
+      "context": [
+        "Categoría: Inspecciones\n\nTags: [inspección, justicia, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Inspección Primera?\n\nRespuesta: 608 634 5913 Ext. 1025"
+      ],
+      "topScore": 0.6813806912176329
+    }
+  ],
+  "5f9cb2b8-8caa-4476-a46e-80df81449b07": [
+    {
+      "message": "Ayuda no he podido",
+      "timestamp": "24/10/2025, 15:20:35",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6516218070397541
+    },
+    {
+      "message": "QUIEN ME PUEDE AYUDAR?",
+      "timestamp": "24/10/2025, 15:21:46",
+      "context": [
+        "Categoría: Comunicación con un AsesorTags: [asesor, atención al ciudadano, contacto, teléfono]Pregunta: ¿Cómo puedo comunicarme con un asesor?Respuesta: Puedes comunicarte con la Alcaldía a través del número de atención al ciudadano 6086345913. Las extensiones disponibles para recepción y atención al ciudadano son 1000, 1001 y 1002."
+      ],
+      "topScore": 0.6703110477206629
+    }
+  ],
+  "927155a7-c100-4aaa-a1d3-e1aa91a59553": [
+    {
+      "message": "Es que ya no tengo acceso a el correo que había puesto y necesito cambiarlo",
+      "timestamp": "24/10/2025, 15:53:01",
+      "context": [
+        "Categoría: Secretaría de planeaciónTags: [estratificación, dirección, planeación, certificado]Pregunta: ¿Qué pasa si la estratificación cambió la dirección de mi casa?Respuesta: Debes acercarte a la Secretaría de Planeación para solicitar el certificado de estratificación o realizar el proceso en línea a través del portal(estratificación)[https://yopal.gov.co/estratificacion/estratifica_online/]. Cabe resaltar que este trámite no aplica para la primera solicitud de dirección."
+      ],
+      "topScore": 0.6642130004292532
+    }
+  ],
+  "a7b1f37c-d477-4007-8962-bbbb7c23ed1c": [
+    {
+      "message": "NECESITO LA RESOLUCION 389 DEL 30 DE OCTUBRE DE 2025 ",
+      "timestamp": "24/10/2025, 16:10:51",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, fechas de pago, descuentos, 2025]\n\nPregunta: ¿Cuáles son las fechas límite para pagar el Impuesto Predial con descuento en 2025?\n\nRespuesta: Hasta el 30 de noviembre de 2025 hay 10% de descuento, y hasta el 31 de diciembre de 2025, 5%."
+      ],
+      "topScore": 0.6750411473065479
+    },
+    {
+      "message": "resolucion 389",
+      "timestamp": "24/10/2025, 16:11:09",
+      "context": [],
+      "topScore": 0.6342079645633905
+    },
+    {
+      "message": "donde descargo las resoluciones",
+      "timestamp": "24/10/2025, 16:11:19",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6869510487054449
+    }
+  ],
+  "aa79f45f-5fdb-4f31-8402-3dec38bd8990": [
+    {
+      "message": "link contractvs",
+      "timestamp": "24/10/2025, 16:46:51",
+      "context": [],
+      "topScore": 0.6126548989523146
+    }
+  ],
+  "458dc270-5f54-44ce-ab84-2f76d2d18c26": [
+    {
+      "message": "jornada cobro persuasivo",
+      "timestamp": "24/10/2025, 20:37:03",
+      "context": [],
+      "topScore": 0.6410592336078683
+    },
+    {
+      "message": "jornada especial secretaría de hacienda",
+      "timestamp": "24/10/2025, 20:37:21",
+      "context": [
+        "Categoría: Administración\n\nTags: [horarios, atención, oficinas, alcaldía]\n\nPregunta: ¿Cuáles son los horarios de atención de la Alcaldía y sus secretarías?\n\nRespuesta:\n\n- Lunes a viernes:\n\n  - Mañana: 7:30 AM a 12:00 PM\n\n  - Tarde: 2:00 PM a 5:30 PM\n\n- Fines de semana y festivos: Cerrado."
+      ],
+      "topScore": 0.6690192036603715
+    }
+  ],
+  "dc3ef03d-8ba6-4a89-be3c-9b4846bd4fad": [
+    {
+      "message": "F-SHY25 este formato que se reporta ",
+      "timestamp": "26/10/2025, 21:51:58",
+      "context": [],
+      "topScore": 0.6160939895875064
+    }
+  ],
+  "271d1716-1379-4c26-bb37-37044c167ac6": [
+    {
+      "message": "no me esta cargando los formatos exogena ",
+      "timestamp": "27/10/2025, 09:20:06",
+      "context": [],
+      "topScore": 0.6253470196928774
+    }
+  ],
+  "ba08a7c4-7824-4e0d-a6a0-2e2592438e2f": [
+    {
+      "message": "Por favor requiero informacion a cerca del cumplimiento de la ley 2173de 2021, como es el proceso, cuales son las areas de vida establecidas en la ciudad",
+      "timestamp": "27/10/2025, 09:42:19",
+      "context": [
+        "Categoría: Servicios Públicos\n\nTags: [servicios públicos, urbanizaciones, loteos, certificación]\n\nPregunta: ¿Qué requisitos adicionales aplican para urbanizaciones o loteos en Yopal?\n\nRespuesta: Además de los requisitos básicos, se deben presentar:\n\nCaracterísticas de la urbanización (número de viviendas, zonas comunes, etc.).\n\nPlanos y esquemas del proyecto en físico y digital."
+      ],
+      "topScore": 0.6953858931183712
+    }
+  ],
+  "83ca601a-fee1-444d-81c4-1b4fe9a1a63f": [
+    {
+      "message": "Tienen algún. Número celular ",
+      "timestamp": "27/10/2025, 09:50:19",
+      "context": [],
+      "topScore": 0.6469886166851259
+    }
+  ],
+  "93ec410f-40c0-4da6-ba33-4184745de8b6": [
+    {
+      "message": "me recomienda alguna en especial",
+      "timestamp": "27/10/2025, 10:04:55",
+      "context": [],
+      "topScore": 0.5875321702566809
+    },
+    {
+      "message": "esperare la respuesta",
+      "timestamp": "27/10/2025, 10:05:13",
+      "context": [],
+      "topScore": 0.6353134882423044
+    }
+  ],
+  "57e61842-4b0a-4ac4-9d92-3c0bd9763324": [
+    {
+      "message": "como sé cuales formatos debo presentar en medios magneticos",
+      "timestamp": "27/10/2025, 10:13:09",
+      "context": [],
+      "topScore": 0.6091747520217116
+    },
+    {
+      "message": "la pagina no funciona",
+      "timestamp": "30/10/2025, 11:33:37",
+      "context": [],
+      "topScore": 0.5795966652637254
+    }
+  ],
+  "b2796cbe-075a-4885-8992-635919fe18a7": [
+    {
+      "message": "Me gustaría una asesoría. Sobre la ayuda para resolver un problema de una compra de un lote en Yopal dónde noe responden por las escrituras ",
+      "timestamp": "27/10/2025, 10:19:54",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6905313824149483
+    }
+  ],
+  "13712dfa-ffeb-4858-80e9-b5d8b89b0475": [
+    {
+      "message": "FAVOR NECESITO LA RESOLUCION DE EXOGENA AÑO GRAVABLE 2024 YOPAL",
+      "timestamp": "27/10/2025, 10:20:43",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.6735481766971959
+    }
+  ],
+  "fbfe58f9-dc6a-4886-a9fd-e105fd277e6d": [
+    {
+      "message": "necesito saber porque un pago de industria y comercio aun no se ve reflejado en la plataforma a pesar que se subio el comprobante ",
+      "timestamp": "27/10/2025, 13:00:30",
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [impuesto de industria y comercio, ica, pagos]\n\nPregunta: ¿Cómo puedo pagar el Impuesto de Industria y Comercio? | ¿Cómo puedo pagar el recibo de Industria y Comercio?Respuesta: El pago se realiza a través del portal de impuestos Yopal.Más información en: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6984804350609478
+    }
+  ],
+  "41066a27-e1d6-4426-9e05-9b3d1c0bfcbf": [
+    {
+      "message": "Necesito hacer la presentación de la información exógena pero la pagina de YOPAL sigue caída, qué debo hacer la respecto ",
+      "timestamp": "27/10/2025, 13:17:44",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.6712012283056128
+    }
+  ],
+  "15d62b2e-89be-423b-ba36-8d85e96f56df": [
+    {
+      "message": "es que estoy tratando de subir la informacion exogena pero no carga el archivo",
+      "timestamp": "27/10/2025, 14:28:33",
+      "context": [],
+      "topScore": 0.6122433177551997
+    }
+  ],
+  "37aa0630-c69c-4f50-beb4-7b5aa95172a1": [
+    {
+      "message": "EXOGENA MUNICIPAL",
+      "timestamp": "27/10/2025, 15:30:15",
+      "context": [
+        "Categoría: Alcaldía\n\nTags: [alcalde, despacho, contacto]\n\nPregunta: ¿Cuál es el número de teléfono del Despacho del Alcalde?\n\nRespuesta: 608 634 5913 Ext. 1035"
+      ],
+      "topScore": 0.6816982878883777
+    }
+  ],
+  "9e74bca9-4440-4269-a7bd-a159a70a83ef": [
+    {
+      "message": "Paz y salvo de mi inmueble en Villanueva ",
+      "timestamp": "27/10/2025, 17:25:23",
+      "context": [
+        "Categoría: Hacienda\n\nTags: [paz y salvo, vehículos, trámites, CACY]\n\nPregunta: ¿Cómo puedo solicitar un paz y salvo vehicular?\n\nRespuesta: Para solicitar un paz y salvo, debes hacerlo presencialmente en el Centro de Atención al Ciudadano de Yopal (CACY). Esto se debe a que el certificado debe llevar firma y sello seco para ser válido."
+      ],
+      "topScore": 0.6818115052777292
+    }
+  ],
+  "2a9cb515-35cc-4229-9ac4-ad62fefd79a8": [
+    {
+      "message": "CUALES SON Recuerda que es importante verificar las políticas específicas del CACY",
+      "timestamp": "27/10/2025, 17:52:14",
+      "context": [
+        "Categoría: Atención al Ciudadano\n\nTags: [PQRSD, CACY, cartelera, publicaciones]\n\nPregunta: ¿Cómo realizar publicaciones en la cartelera del CACY (Centro de Atención al Ciudadano de Yopal).?\n\nRespuesta: Debes enviar tu solicitud al correo atencionalciudadano@yopal-casanare.gov.co"
+      ],
+      "topScore": 0.6894568502766111
+    }
+  ],
+  "10472fb3-251e-4017-a820-c0823f70bf2e": [
+    {
+      "message": "comparendo vehicular",
+      "timestamp": "27/10/2025, 20:25:26",
+      "context": [],
+      "topScore": 0.6430071130712514
+    }
+  ],
+  "c5633223-b361-492b-b63b-b8ef0bec6a1a": [
+    {
+      "message": "levantamiento de prenda de una moto",
+      "timestamp": "28/10/2025, 09:46:18",
+      "context": [],
+      "topScore": 0.5863993276637777
+    },
+    {
+      "message": "transito",
+      "timestamp": "28/10/2025, 09:46:32",
+      "context": [
+        "Categoría: Movilidad\n\nTags: [movilidad, tránsito, tráfico, transporte]\n\nPregunta: ¿Dónde está ubicada la Secretaría de Movilidad? | ¿Dónde queda la Secretaría de Movilidad?\n\nRespuesta: En la Trasversal. 18, antiguas instalaciones de Equión."
+      ],
+      "topScore": 0.6659390481388034
+    },
+    {
+      "message": "transito",
+      "timestamp": "28/10/2025, 09:47:15",
+      "context": [
+        "Categoría: Movilidad\n\nTags: [movilidad, tránsito, tráfico, transporte]\n\nPregunta: ¿Dónde está ubicada la Secretaría de Movilidad? | ¿Dónde queda la Secretaría de Movilidad?\n\nRespuesta: En la Trasversal. 18, antiguas instalaciones de Equión."
+      ],
+      "topScore": 0.6659390481388034
+    },
+    {
+      "message": "transito",
+      "timestamp": "28/10/2025, 09:47:34",
+      "context": [
+        "Categoría: Movilidad\n\nTags: [movilidad, tránsito, tráfico, transporte]\n\nPregunta: ¿Dónde está ubicada la Secretaría de Movilidad? | ¿Dónde queda la Secretaría de Movilidad?\n\nRespuesta: En la Trasversal. 18, antiguas instalaciones de Equión."
+      ],
+      "topScore": 0.6659390481388034
+    },
+    {
+      "message": "prenda",
+      "timestamp": "28/10/2025, 09:47:47",
+      "context": [],
+      "topScore": 0.5934645294753261
+    }
+  ],
+  "254f5937-cd8b-43ed-bb34-a852a72fedaf": [
+    {
+      "message": "COMO PUEDO INGRESAR AL PORTAL",
+      "timestamp": "28/10/2025, 10:40:27",
+      "context": [
+        "Categoría: Educación\n\nTags: [PAE, acceso, requisitos, cobertura]\n\nPregunta: ¿Cómo accedo al servicio del PAE en Yopal?\n\nRespuesta: Puedes hacerlo de dos maneras:\n\nEn la Institución Educativa: Acudir directamente al colegio oficial donde el estudiante esté matriculado.\n\nEn la Secretaría de Educación Municipal: Avenida La Cultura 10-15, edificio La Triada. Área de Cobertura brinda orientación sobre cupos, procedimientos y documentos necesarios.\n\nMás información: Tel. (608) 6345913 ext. 1029 o correo saceducacion@yopalcasanare.gov.co"
+      ],
+      "topScore": 0.6638044302370805
+    }
+  ],
+  "f0b326ff-516e-49a5-848e-d6500131ba12": [
+    {
+      "message": "No me deja",
+      "timestamp": "28/10/2025, 11:52:24",
+      "context": [],
+      "topScore": 0.5719762775871554
+    }
+  ],
+  "3f25c23e-04ae-482a-89d0-f9b368d27c67": [
+    {
+      "message": "guia exogena",
+      "timestamp": "28/10/2025, 12:25:10",
+      "context": [],
+      "topScore": 0.612811280980977
+    },
+    {
+      "message": "exogena",
+      "timestamp": "28/10/2025, 12:25:19",
+      "context": [],
+      "topScore": 0.5818142231992371
+    }
+  ],
+  "7cb6e96c-dfbf-43d8-a946-c8edbf8aacf4": [
+    {
+      "message": "me gustaria saber cual es la resolucion para presentar la exogena de 2024",
+      "timestamp": "28/10/2025, 12:52:39",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.6741761117843094
+    },
+    {
+      "message": "me puedes ayudar indicandome cua es la resolucion para presentar la exogena del año 2024",
+      "timestamp": "28/10/2025, 12:53:40",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.6819263645611523
+    },
+    {
+      "message": "no puedo ir hasta allá",
+      "timestamp": "28/10/2025, 12:54:32",
+      "context": [],
+      "topScore": 0.5853992050837037
+    },
+    {
+      "message": "la pagina de la exogena esta caida?",
+      "timestamp": "30/10/2025, 12:55:10",
+      "context": [],
+      "topScore": 0.603414489481558
+    },
+    {
+      "message": "soporte",
+      "timestamp": "30/10/2025, 12:56:04",
+      "context": [],
+      "topScore": 0.6384314017453865
+    },
+    {
+      "message": "soporte tecnico",
+      "timestamp": "30/10/2025, 12:56:09",
+      "context": [
+        "Categoría: Secretaría TIC\n\nTags: [tecnología, sistemas, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Secretaría TIC?\n\nRespuesta: 608 634 5913 Ext. 1006"
+      ],
+      "topScore": 0.6727099747719881
+    },
+    {
+      "message": "soporte",
+      "timestamp": "30/10/2025, 12:56:36",
+      "context": [],
+      "topScore": 0.6384314017453865
+    }
+  ],
+  "4b9b9ceb-06c4-451a-95b1-30c592c37857": [
+    {
+      "message": "en el formato exogena shy15",
+      "timestamp": "28/10/2025, 14:32:22",
+      "context": [],
+      "topScore": 0.5917793389734053
+    },
+    {
+      "message": "debo reportar todas las retenciones que me practicaron incluida la de terceros ",
+      "timestamp": "28/10/2025, 14:32:48",
+      "context": [],
+      "topScore": 0.6477894529323692
+    }
+  ],
+  "21f5ae8b-d061-4bdb-8719-faa73506a796": [
+    {
+      "message": "ESTOY INTENTADO INGRESAR A LA PAGINA PARA PRESENTAR EXOGENA Y NO CARGA",
+      "timestamp": "28/10/2025, 14:44:21",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, CACY, firma electrónica]Pregunta: ¿No me aparece para firmar una declaración?Respuesta:\n\nPuedes acercarte al CACY (Centro de Atención al Ciudadano de Yopal), módulo 11, solicitar turno y allí te ayudarán a solucionar el inconveniente que presentas.\n\nTambién puedes revisar el instructivo para generar la firma electrónica en el siguiente enlace: [Instructivo](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6666897537375692
+    }
+  ],
+  "b54a3080-51a9-495b-bba0-4ddcd9f40a86": [
+    {
+      "message": "y bases minimas para practicar retenciones",
+      "timestamp": "28/10/2025, 14:51:56",
+      "context": [
+        "Categoría: Educación\n\nTags: [matrícula, documentos, colegios públicos]\n\nPregunta: ¿Qué documentos mínimos se requieren para acceder a la oferta educativa?\n\nRespuesta: Se debe presentar copia del documento de identificación y, si aplica, certificados de antecedentes académicos."
+      ],
+      "topScore": 0.6667282403477839
+    }
+  ],
+  "95a3bc6a-d646-4a19-b8ea-67393344727b": [
+    {
+      "message": "¿Tienes numero de WhatsApp?",
+      "timestamp": "28/10/2025, 16:42:59",
+      "context": [
+        "Categoría: contacto alcaldía\n\nTags: [contacto, teléfono, atención al ciudadano]\n\nPregunta: ¿Cuál es el número de teléfono de la Alcaldía?\n\nRespuesta: Recepción (Atención al ciudadano): 608 634 5913 Ext. 1000, 1001, 1002"
+      ],
+      "topScore": 0.688321667197414
+    }
+  ],
+  "8399a73d-4dd3-41a0-932c-e5a575e37389": [
+    {
+      "message": "Tengo problemas para presentar la información exógena, la plataforma esta caída, donde puedo opter soporte ",
+      "timestamp": "29/10/2025, 10:25:02",
+      "context": [],
+      "topScore": 0.6489460089957106
+    }
+  ],
+  "e070b662-a2b4-4aed-8aad-efe7e8819ee8": [
+    {
+      "message": "Estoy intentando subir un par de formatos de exógena, y no los porcesa o valida. ",
+      "timestamp": "29/10/2025, 10:38:46",
+      "context": [],
+      "topScore": 0.5992420871536157
+    }
+  ],
+  "a8ef7510-881e-40af-91e7-faae8e16cd08": [
+    {
+      "message": "Consultar tramite",
+      "timestamp": "29/10/2025, 11:34:59",
+      "context": [
+        "Categoría: Inspecciones\n\nTags: [inspección, justicia, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Inspección Primera?\n\nRespuesta: 608 634 5913 Ext. 1025"
+      ],
+      "topScore": 0.6697010209128452
+    },
+    {
+      "message": "No hay un número de WhatsApp?",
+      "timestamp": "29/10/2025, 11:35:44",
+      "context": [
+        "Categoría: contacto alcaldía\n\nTags: [contacto, teléfono, atención al ciudadano]\n\nPregunta: ¿Cuál es el número de teléfono de la Alcaldía?\n\nRespuesta: Recepción (Atención al ciudadano): 608 634 5913 Ext. 1000, 1001, 1002"
+      ],
+      "topScore": 0.6601064753580699
+    }
+  ],
+  "56611bdd-72b7-4c31-8a0a-8681a3ae1c9f": [
+    {
+      "message": "Pero no me dieron razón de inmediato",
+      "timestamp": "29/10/2025, 12:11:35",
+      "context": [],
+      "topScore": 0.6001022647310371
+    },
+    {
+      "message": "Cual es el",
+      "timestamp": "29/10/2025, 12:12:04",
+      "context": [
+        "Categoría: Administración\n\nTags: [alcaldía, sede principal, ubicación, dirección]\n\nPregunta: ¿Dónde queda la Alcaldía? | ¿Dónde está ubicada la Alcaldía?\n\nRespuesta: La Alcaldía de Yopal está ubicada en la Diagonal 15 # 15-21."
+      ],
+      "topScore": 0.6696406273511748
+    },
+    {
+      "message": "numero ",
+      "timestamp": "29/10/2025, 12:12:10",
+      "context": [
+        "Categoría: Secretaría de Gobierno\n\nTags: [gobierno, contacto, teléfono]\n\nPregunta: ¿Cuál es el número de teléfono de la Secretaría de Gobierno?\n\nRespuesta: 608 634 5913 Ext. 1009"
+      ],
+      "topScore": 0.6953656816735668
+    }
+  ],
+  "95145468-2bdc-4f26-91e4-ea766d43159c": [
+    {
+      "message": "yo ya paque pero no tengo la copia de la factura , yo hice lo que me esta diciendo pero me dice que obtenga mi paz y salvo en la parte suoerior derecha de la pantalla y alli no hay esa opcion",
+      "timestamp": "29/10/2025, 12:15:23",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6863904929118914
+    }
+  ],
+  "1d21e739-c0d7-4f5c-a28a-b5d5bb20b19d": [
+    {
+      "message": "Necesito imprimir un recibo de predial y la página no deja",
+      "timestamp": "29/10/2025, 14:00:46",
+      "context": [],
+      "topScore": 0.6458774978512997
+    },
+    {
+      "message": "Número de matrícula470-28063",
+      "timestamp": "29/10/2025, 14:01:25",
+      "context": [
+        "Categoría: Secretaría de Movilidad\n\nTags: [movilidad, tránsito, transporte]\n\nPregunta: ¿Cuál es el número de teléfono de la Secretaría de Movilidad?\n\nRespuesta: 608 634 5913 Ext. 1027"
+      ],
+      "topScore": 0.6798177755892727
+    },
+    {
+      "message": "Osea tampoco sirve por acá ",
+      "timestamp": "29/10/2025, 14:02:16",
+      "context": [],
+      "topScore": 0.6013410286449946
+    },
+    {
+      "message": "No les funciona es nada",
+      "timestamp": "29/10/2025, 14:02:28",
+      "context": [],
+      "topScore": 0.5809896105125546
+    }
+  ],
+  "dcd0afdd-0d7a-42e1-b197-a0a4ad208ac3": [
+    {
+      "message": "informacion exogena",
+      "timestamp": "29/10/2025, 14:53:55",
+      "context": [],
+      "topScore": 0.6309543956552965
+    },
+    {
+      "message": "medios magneticos",
+      "timestamp": "29/10/2025, 14:55:38",
+      "context": [],
+      "topScore": 0.5851456732541125
+    }
+  ],
+  "9421bee1-4483-4a62-919a-ceb25ff5208c": [
+    {
+      "message": "Debemos presentar la informacion exogena, pero el sitio web no funciona, hay alguna contingencia, nuevo plazo?",
+      "timestamp": "29/10/2025, 15:42:46",
+      "context": [],
+      "topScore": 0.6209943074751216
+    }
+  ],
+  "78d58c7e-99e7-43af-9611-c5cfc22993ad": [
+    {
+      "message": "que me compartas",
+      "timestamp": "29/10/2025, 15:44:10",
+      "context": [],
+      "topScore": 0.6011236946557535
+    },
+    {
+      "message": "me puedes indicar en que parte de la pagina puedo encontrar el acuerdo municipal del año 2025",
+      "timestamp": "29/10/2025, 15:45:16",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, fechas de pago, descuentos, 2025]\n\nPregunta: ¿Cuáles son las fechas límite para pagar el Impuesto Predial con descuento en 2025?\n\nRespuesta: Hasta el 30 de noviembre de 2025 hay 10% de descuento, y hasta el 31 de diciembre de 2025, 5%."
+      ],
+      "topScore": 0.680945830842217
+    }
+  ],
+  "2ac4d0e9-528b-4a16-86ce-2a6eb33cac5a": [
+    {
+      "message": "cuales son las fases de la estrategia de participaciòn ciudadana",
+      "timestamp": "29/10/2025, 16:17:18",
+      "context": [
+        "Categoría: Atención al Ciudadano\n\nTags: [PQRSD, CACY, cartelera, publicaciones]\n\nPregunta: ¿Cómo realizar publicaciones en la cartelera del CACY (Centro de Atención al Ciudadano de Yopal).?\n\nRespuesta: Debes enviar tu solicitud al correo atencionalciudadano@yopal-casanare.gov.co"
+      ],
+      "topScore": 0.6727388724107332
+    }
+  ],
+  "1a13b17c-30ea-4f23-bc6f-04d340303da0": [
+    {
+      "message": "Adulto mayor ",
+      "timestamp": "29/10/2025, 18:58:41",
+      "context": [],
+      "topScore": 0.5949645280501323
+    },
+    {
+      "message": "Inscripción de personas ",
+      "timestamp": "29/10/2025, 18:59:13",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, CACY, firma electrónica]Pregunta: ¿No me aparece para firmar una declaración?Respuesta:\n\nPuedes acercarte al CACY (Centro de Atención al Ciudadano de Yopal), módulo 11, solicitar turno y allí te ayudarán a solucionar el inconveniente que presentas.\n\nTambién puedes revisar el instructivo para generar la firma electrónica en el siguiente enlace: [Instructivo](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6536179510236325
+    }
+  ],
+  "23bb92c6-2e59-4c8f-b9f0-52ab57f873f4": [
+    {
+      "message": "LA PAGINA PARA CARGAR EXOGENA NO ESTA FUNCIONANDO",
+      "timestamp": "29/10/2025, 19:02:42",
+      "context": [],
+      "topScore": 0.6153754121615773
+    },
+    {
+      "message": "NO CARGA",
+      "timestamp": "29/10/2025, 19:02:57",
+      "context": [],
+      "topScore": 0.6374487947243884
+    },
+    {
+      "message": "resolucion 356 del 29 de octubre 2025",
+      "timestamp": "30/10/2025, 09:45:35",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, normativa, Acuerdo 020 de 2022]\n\nPregunta: ¿En qué norma está detallado el Impuesto Predial?\n\nRespuesta: En el Acuerdo 020 del 9 de diciembre de 2022."
+      ],
+      "topScore": 0.6617771171161774
+    }
+  ],
+  "630ae5da-96e2-4a39-b7b8-587c0b11728a": [
+    {
+      "message": "por que la pagina de la alcladia no esta funcionando",
+      "timestamp": "29/10/2025, 20:36:42",
+      "context": [],
+      "topScore": 0.5690610135007003
+    }
+  ],
+  "8e7a8927-bc15-4ad0-97b2-f9294821291e": [
+    {
+      "message": "exogena 2024",
+      "timestamp": "29/10/2025, 21:56:06",
+      "context": [],
+      "topScore": 0.6330605674618297
+    },
+    {
+      "message": "exógena",
+      "timestamp": "29/10/2025, 21:56:18",
+      "context": [],
+      "topScore": 0.5953569910420291
+    }
+  ],
+  "7b4ff732-0cbf-4ee5-a6cc-d634108141f3": [
+    {
+      "message": "la plataforma universo esta caida",
+      "timestamp": "29/10/2025, 23:57:22",
+      "context": [],
+      "topScore": 0.6406732346447044
+    }
+  ],
+  "c3d595b5-0d0c-45ca-848e-117d28379637": [
+    {
+      "message": "me podrias compartir lo que dice la resolución 263 de agosto de 2024 ya que la pagina no carga",
+      "timestamp": "30/10/2025, 05:28:52",
+      "context": [],
+      "topScore": 0.6342803361170036
+    }
+  ],
+  "518cd742-d932-4dc6-a788-5bd842130afb": [
+    {
+      "message": "PARA TRANSMITIR EXOGENA DE YOPAL",
+      "timestamp": "30/10/2025, 06:29:47",
+      "context": [
+        "Categoría: Programas Sociales\n\nTags: [renta ciudadana, traslado, beneficios]\n\nPregunta: ¿Cuál es el procedimiento para trasladar el beneficio de Renta Ciudadana a Yopal?\n\nRespuesta: Debes contactar a la oficina de Renta Ciudadana en la Alcaldía de Yopal. Tel: 6086345913 ext. 1039."
+      ],
+      "topScore": 0.6985844037758351
+    }
+  ],
+  "d0f703df-45e7-4b08-98a8-cc6d74cd24c2": [
+    {
+      "message": "Exógena 2024",
+      "timestamp": "30/10/2025, 06:33:50",
+      "context": [],
+      "topScore": 0.6239494996182957
+    },
+    {
+      "message": "Ayuda exógena 2024",
+      "timestamp": "30/10/2025, 07:25:57",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, fechas de pago, descuentos, 2025]\n\nPregunta: ¿Cuáles son las fechas límite para pagar el Impuesto Predial con descuento en 2025?\n\nRespuesta: Hasta el 30 de noviembre de 2025 hay 10% de descuento, y hasta el 31 de diciembre de 2025, 5%."
+      ],
+      "topScore": 0.6530438607589607
+    }
+  ],
+  "d67511c2-c637-48cf-98f0-f907403be5af": [
+    {
+      "message": "Como hago para imprimir el predial?",
+      "timestamp": "30/10/2025, 07:18:02",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [acuerdo de pago, predial, garantías]\n\nPregunta: ¿Cómo puedo hacer un acuerdo de pago del impuesto predial?\n\nRespuesta: Presentando garantía como certificado de libertad de un predio o tarjeta de propiedad de un vehículo sin deudas ni embargos."
+      ],
+      "topScore": 0.6851660133796591
+    }
+  ],
+  "f9f83792-8dbd-410b-aea4-3af8054013c6": [
+    {
+      "message": "buen dia",
+      "timestamp": "30/10/2025, 07:19:00",
+      "context": [],
+      "topScore": 0.5630890001166036
+    },
+    {
+      "message": "estoy ingresando a la página ",
+      "timestamp": "30/10/2025, 07:19:23",
+      "context": [],
+      "topScore": 0.6048574591323918
+    },
+    {
+      "message": "para subir la información exogena",
+      "timestamp": "30/10/2025, 07:19:46",
+      "context": [
+        "Categoría: Planeación – SISBÉN\n\nTags: [SISBÉN, extranjeros, PPT, cédula de extranjería]\n\nPregunta: ¿Qué documentos deben presentar los ciudadanos extranjeros para solicitar la encuesta del SISBÉN?\n\nRespuesta: Pueden presentar:\n\nCédula de extranjería.\n\nPermiso de Protección Temporal (PPT).\n\nSalvoconducto para refugiado (aplica especialmente para personas venezolanas)."
+      ],
+      "topScore": 0.6777160916493477
+    },
+    {
+      "message": "no sirve la página",
+      "timestamp": "30/10/2025, 07:19:58",
+      "context": [],
+      "topScore": 0.5851071642005363
+    }
+  ],
+  "c4302b7d-e7e9-46ed-acf5-b23649eda651": [
+    {
+      "message": "COMO INGRESO PARA BAJAR EL FORMATO PARA EXÓGENA",
+      "timestamp": "30/10/2025, 07:25:24",
+      "context": [],
+      "topScore": 0.6491743653337894
+    },
+    {
+      "message": "COMO INGRESO PARA BAJAR EL FORMATO PARA EXÓGENA",
+      "timestamp": "30/10/2025, 07:25:37",
+      "context": [],
+      "topScore": 0.6491743653337894
+    },
+    {
+      "message": "EXOGENA",
+      "timestamp": "30/10/2025, 07:25:48",
+      "context": [],
+      "topScore": 0.6162378012384387
+    },
+    {
+      "message": "EXOGENA",
+      "timestamp": "30/10/2025, 07:26:41",
+      "context": [],
+      "topScore": 0.6162378012384387
+    }
+  ],
+  "e08c3552-6d12-423f-bde5-1147147a97dc": [
+    {
+      "message": "envio exogena",
+      "timestamp": "30/10/2025, 07:53:49",
+      "context": [],
+      "topScore": 0.6266737515961883
+    }
+  ],
+  "7bbac71a-4f40-40fc-bc7d-ad48dca5a059": [
+    {
+      "message": "no me esta dejando subir los formatos de la información exógena",
+      "timestamp": "30/10/2025, 08:26:25",
+      "context": [],
+      "topScore": 0.6425930600388585
+    },
+    {
+      "message": "no me esta dejando subir los formatos de la información exógena",
+      "timestamp": "30/10/2025, 08:26:35",
+      "context": [],
+      "topScore": 0.6425930600388585
+    }
+  ],
+  "1b0e4dce-96c1-46fc-868c-d024ff598606": [
+    {
+      "message": "Es que necesito ",
+      "timestamp": "30/10/2025, 08:43:31",
+      "context": [],
+      "topScore": 0.6430595258854588
+    },
+    {
+      "message": "Acuerdo mediante se aprueba presupuesto para la vigencia 2025",
+      "timestamp": "30/10/2025, 08:44:19",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, fechas de pago, descuentos, 2025]\n\nPregunta: ¿Cuáles son las fechas límite para pagar el Impuesto Predial con descuento en 2025?\n\nRespuesta: Hasta el 30 de noviembre de 2025 hay 10% de descuento, y hasta el 31 de diciembre de 2025, 5%."
+      ],
+      "topScore": 0.6841623351487321
+    }
+  ],
+  "2be795cd-e165-4c5c-9142-3af3aa13ad10": [
+    {
+      "message": "buen dia",
+      "timestamp": "30/10/2025, 08:44:14",
+      "context": [],
+      "topScore": 0.5630890001166036
+    }
+  ],
+  "da834ab2-8c2b-4694-a448-56014f22163c": [
+    {
+      "message": "\nRegistro de Publicidad Exterior:",
+      "timestamp": "30/10/2025, 08:48:58",
+      "context": [
+        "Categoría: Planeación – SISBÉN\n\nTags: [SISBÉN, extranjeros, PPT, cédula de extranjería]\n\nPregunta: ¿Qué documentos deben presentar los ciudadanos extranjeros para solicitar la encuesta del SISBÉN?\n\nRespuesta: Pueden presentar:\n\nCédula de extranjería.\n\nPermiso de Protección Temporal (PPT).\n\nSalvoconducto para refugiado (aplica especialmente para personas venezolanas)."
+      ],
+      "topScore": 0.6825658923017738
+    }
+  ],
+  "f6e56a80-d71c-4df3-a731-525a8f0c4bb8": [
+    {
+      "message": "Tengo inconvenientes con la página de hecienda, esta fallando? tengo inconvenientes el subir la exogena ",
+      "timestamp": "30/10/2025, 08:51:46",
+      "context": [],
+      "topScore": 0.6435050834115745
+    }
+  ],
+  "9af9c228-1208-4add-b46f-dcb068ae7e8f": [
+    {
+      "message": "quisiera saber de la piscina natural aguatoca",
+      "timestamp": "30/10/2025, 09:05:30",
+      "context": [],
+      "topScore": 0.5950669657309713
+    }
+  ],
+  "ec2b7b87-7147-4c56-b230-d316f4951c51": [
+    {
+      "message": "Por favor me envías la resolución 356 que amplia las fechas de presentación de la información exógena ",
+      "timestamp": "30/10/2025, 09:14:37",
+      "context": [],
+      "topScore": 0.6461545066949992
+    },
+    {
+      "message": "Por favor me envías la resolución 356 que amplia las fechas de presentación de la información exógena al correo auxcontabilidad3@iteco.com.co",
+      "timestamp": "30/10/2025, 09:15:08",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.699732629667047
+    }
+  ],
+  "7b4af0f8-6e58-44fc-a86b-3f039d904f7d": [
+    {
+      "message": "necesito dinero",
+      "timestamp": "30/10/2025, 09:14:41",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [paz y salvo, costo, trámites]\n\nPregunta: ¿El paz y salvo tiene algún costo?\n\nRespuesta: No, es gratuito y se entrega inmediatamente si está al día en pagos."
+      ],
+      "topScore": 0.6505487705743189
+    }
+  ],
+  "68be68cd-e3ed-4e47-9f2b-72837f275425": [
+    {
+      "message": "presentacion de exogena",
+      "timestamp": "30/10/2025, 09:15:48",
+      "context": [],
+      "topScore": 0.6367557637530894
+    }
+  ],
+  "1d0af07d-4fa4-44ca-9a92-1fd339ec0d16": [
+    {
+      "message": "EXOGENA",
+      "timestamp": "30/10/2025, 09:27:07",
+      "context": [],
+      "topScore": 0.6162378012384387
+    },
+    {
+      "message": "No contestan",
+      "timestamp": "30/10/2025, 09:45:47",
+      "context": [],
+      "topScore": 0.6184603407242377
+    },
+    {
+      "message": "Nadie contesta",
+      "timestamp": "30/10/2025, 09:46:01",
+      "context": [],
+      "topScore": 0.6463514623287195
+    },
+    {
+      "message": "otro telefono por favor",
+      "timestamp": "30/10/2025, 09:46:49",
+      "context": [
+        "Categoría: contacto alcaldía\n\nTags: [contacto, teléfono, atención al ciudadano]\n\nPregunta: ¿Cuál es el número de teléfono de la Alcaldía?\n\nRespuesta: Recepción (Atención al ciudadano): 608 634 5913 Ext. 1000, 1001, 1002"
+      ],
+      "topScore": 0.6976208326387469
+    },
+    {
+      "message": "medios magneticos",
+      "timestamp": "30/10/2025, 09:46:59",
+      "context": [],
+      "topScore": 0.5851456732541125
+    }
+  ],
+  "be2f17db-b743-47d7-8cdf-795b026cc0de": [
+    {
+      "message": "estoy trantndo de enviar medios magneticos, pero esta muy lento y no deja ver el cargue",
+      "timestamp": "30/10/2025, 09:34:31",
+      "context": [],
+      "topScore": 0.6131423154207243
+    }
+  ],
+  "e9fa117f-a91b-47b0-9a87-f18bd20f9a3e": [
+    {
+      "message": "Quisiera validar una informacion que salio ayer del decreto 356, donde modifican la fecha para entrega de informe medios magnéticos ",
+      "timestamp": "30/10/2025, 09:34:36",
+      "context": [],
+      "topScore": 0.6339524078728814
+    },
+    {
+      "message": "con quien puedo verificar la información ",
+      "timestamp": "30/10/2025, 09:35:13",
+      "context": [
+        "Categoría: Inspecciones\n\nTags: [inspección, justicia, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Inspección Primera?\n\nRespuesta: 608 634 5913 Ext. 1025"
+      ],
+      "topScore": 0.6851125419420082
+    }
+  ],
+  "704f696b-14a9-4fdd-99f2-9f3de9284674": [
+    {
+      "message": "ya estoy al dia ",
+      "timestamp": "30/10/2025, 09:41:55",
+      "context": [],
+      "topScore": 0.5954295112663383
+    }
+  ],
+  "a352120f-b0d7-4149-b37c-e512ad094a2f": [
+    {
+      "message": "nesecito ayuda para cargas la informacion exogena",
+      "timestamp": "30/10/2025, 10:15:38",
+      "context": [],
+      "topScore": 0.642914484340725
+    }
+  ],
+  "a3911432-362a-4898-a402-d172bf2c59d5": [
+    {
+      "message": "La pagina esta dañada",
+      "timestamp": "30/10/2025, 10:20:07",
+      "context": [],
+      "topScore": 0.5604369039072606
+    }
+  ],
+  "37046c18-ebce-4cca-bff4-a4b0e6b49714": [
+    {
+      "message": "la plataforma para subir la exógena municipal no sirve",
+      "timestamp": "30/10/2025, 10:22:00",
+      "context": [
+        "Categoría: Salud\n\nTags: [afiliación, traslado, movilidad, mi seguridad social]\n\nPregunta: ¿Qué es la plataforma Mi Seguridad Social y qué trámites permite hacer?\n\nRespuesta: Es la plataforma oficial del Gobierno de Colombia para trámites en EPS (Entidad Promotora de Salud) de los regímenes Subsidiado y Contributivo. Permite afiliación, inclusión o retiro de beneficiarios, movilidad ascendente/descendente y traslados por cambio de EPS o residencia."
+      ],
+      "topScore": 0.6560845885802119
+    }
+  ],
+  "ade36a88-ca4f-4c3a-9781-e8f778db0921": [
+    {
+      "message": "Quisiera ver sobre un embargo con el número radicado, a ver qué sería lo embargado",
+      "timestamp": "30/10/2025, 10:23:35",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, deudas, pagos]\n\nPregunta: ¿Qué debo hacer si me llega una solicitud de registro de embargo?\n\nRespuesta: Debe pagar las deudas referenciadas en el documento lo más pronto posible para evitar el embargo."
+      ],
+      "topScore": 0.6948158497970321
+    }
+  ],
+  "bf1a8b69-9212-46e9-9cad-956f88d261c3": [
+    {
+      "message": "No funciona la pagina para el cargue de la exogena. ",
+      "timestamp": "30/10/2025, 10:35:50",
+      "context": [],
+      "topScore": 0.580283858063462
+    }
+  ],
+  "6bbd689b-5653-4bb2-8d53-199d4a0099b3": [
+    {
+      "message": "la pagina para carga la exogena no esta sirviendo",
+      "timestamp": "30/10/2025, 10:48:43",
+      "context": [],
+      "topScore": 0.570835581917882
+    },
+    {
+      "message": "que se peude hacer ",
+      "timestamp": "30/10/2025, 10:48:56",
+      "context": [],
+      "topScore": 0.569940186333669
+    }
+  ],
+  "c7c116db-0841-4d2a-9940-646043f434c3": [
+    {
+      "message": "exogena ",
+      "timestamp": "30/10/2025, 10:52:19",
+      "context": [],
+      "topScore": 0.5818142231992371
+    },
+    {
+      "message": "quiero ver la resolucion 356",
+      "timestamp": "30/10/2025, 10:52:39",
+      "context": [],
+      "topScore": 0.6460568018951861
+    },
+    {
+      "message": "resolucion 356 de 29 de octubre ",
+      "timestamp": "30/10/2025, 10:52:52",
+      "context": [
+        "Categoría: Casa de Justicia\n\nTags: [justicia, conciliación, derechos humanos]\n\nPregunta: ¿Cuál es el número del Centro de Conciliación de la Casa de Justicia?\n\nRespuesta: 608 634 5913 Ext. 1021"
+      ],
+      "topScore": 0.6580563050485732
+    },
+    {
+      "message": "quiero saber sobre la exogena ",
+      "timestamp": "30/10/2025, 10:53:01",
+      "context": [],
+      "topScore": 0.615012461772146
+    },
+    {
+      "message": "presentacion de exogena ",
+      "timestamp": "30/10/2025, 10:53:16",
+      "context": [],
+      "topScore": 0.6367557637530894
+    }
+  ],
+  "fd55ea12-63e5-4298-b7dc-262dedcdf27f": [
+    {
+      "message": "No he podido subir exogena, llevo 3 dias",
+      "timestamp": "30/10/2025, 10:52:53",
+      "context": [],
+      "topScore": 0.6073822873242308
+    },
+    {
+      "message": "urgente exogena no funcional",
+      "timestamp": "30/10/2025, 11:28:47",
+      "context": [],
+      "topScore": 0.6054528133909757
+    }
+  ],
+  "5f150b48-ff81-4b0d-9d62-8feb55077973": [
+    {
+      "message": "ESTOY TRATANDO DE CARGAR LA EXOGENA PERO NO SIRVE EL PORTAL ",
+      "timestamp": "30/10/2025, 11:03:54",
+      "context": [],
+      "topScore": 0.6488906906097204
+    }
+  ],
+  "e1361dfb-f908-4103-8207-da503830bd1a": [
+    {
+      "message": "quiero saber si la plataforma para presentacion de informacion exogena esta presentadndo fallas?",
+      "timestamp": "30/10/2025, 11:10:34",
+      "context": [],
+      "topScore": 0.6358312843228299
+    },
+    {
+      "message": "la plataforma no funciona",
+      "timestamp": "30/10/2025, 11:13:44",
+      "context": [],
+      "topScore": 0.6040276473268271
+    },
+    {
+      "message": "exogena yopal",
+      "timestamp": "30/10/2025, 11:18:02",
+      "context": [
+        "Categoría: Salud\n\nTags: [vectores, plagas, salud pública]\n\nPregunta: ¿A quién acudir en caso de contaminación por vectores en Yopal?\n\nRespuesta: Puedes enviar la queja al correo contactenos@yopal-casanare.gov.co\n\n o acudir a la Secretaría de Salud (Carrera 23 #14-34, Auditorio Braulio González)."
+      ],
+      "topScore": 0.6726191001403642
+    }
+  ],
+  "9b442ea4-809b-42b3-bf2f-efbaac177c88": [
+    {
+      "message": "no existe un comunicado oficial y por otro lado a las lineas habilitadas jamas contestan",
+      "timestamp": "30/10/2025, 11:12:38",
+      "context": [],
+      "topScore": 0.6287625419647525
+    }
+  ],
+  "444b7ebc-eadc-451a-8fa9-fffa4ead7a31": [
+    {
+      "message": "No me deja cargar la información exogena",
+      "timestamp": "30/10/2025, 11:16:05",
+      "context": [],
+      "topScore": 0.6481154870867624
+    }
+  ],
+  "f75cb213-fc2a-4cf5-8a83-5321b331e1e9": [
+    {
+      "message": "ya estoy en la pagina, pero no puedo visualizar ningun modulo de pago",
+      "timestamp": "30/10/2025, 11:38:29",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6556796576170006
+    }
+  ],
+  "814845e8-2810-4852-a7fb-5e1c6204893c": [
+    {
+      "message": "estoy tratando de ingresar a universo yopal y no es posible",
+      "timestamp": "30/10/2025, 12:20:59",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [universo online, recuperación, contraseña]\n\nPregunta: ¿Cómo recupero mi cuenta o contraseña en Universo Online?\n\nRespuesta: Ingresa al sistema y selecciona la opción “registrarse”. Haz clic en “Si ha perdido los datos para ingresar al sistema de clic aquí”. Los datos serán enviados al correo electrónico registrado.\n\nMás información: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6812454239658943
+    },
+    {
+      "message": "y no puedo presentar informacion exogena",
+      "timestamp": "30/10/2025, 12:23:21",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6829963336527277
+    }
+  ],
+  "d8732b27-1890-4198-8eb9-58c216b3b7db": [
+    {
+      "message": "hay problemas en la pagina para subir la información exógena ?",
+      "timestamp": "30/10/2025, 12:29:50",
+      "context": [],
+      "topScore": 0.5971913761303694
+    },
+    {
+      "message": "Información Exógena",
+      "timestamp": "30/10/2025, 12:30:07",
+      "context": [],
+      "topScore": 0.6401332221016971
+    },
+    {
+      "message": "Exógena",
+      "timestamp": "30/10/2025, 12:30:22",
+      "context": [],
+      "topScore": 0.6009090829128078
+    }
+  ],
+  "f9711bf6-78b3-4b29-b557-c25c337d3f2a": [
+    {
+      "message": "no sirve plataforma exogena",
+      "timestamp": "30/10/2025, 12:48:22",
+      "context": [],
+      "topScore": 0.6034705582870928
+    }
+  ],
+  "55b2d1ce-99bf-43f7-a21e-aabd8701593d": [
+    {
+      "message": "favor activar plataforma para pagar ",
+      "timestamp": "30/10/2025, 13:04:36",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, pago en línea, recibo]\n\nPregunta: ¿Se puede pagar el Impuesto Predial en línea? | ¿Se puede pagar el recibo Predial en línea?\n\nRespuesta: Sí. El municipio dispone de una plataforma en línea para realizar pagos electrónicos o descargar el recibo de pago."
+      ],
+      "topScore": 0.6839876983096154
+    }
+  ],
+  "c407742f-4477-4203-b985-382001ee3a90": [
+    {
+      "message": "tengo problemas para cargar la exógena, me podrías ayudar?",
+      "timestamp": "30/10/2025, 13:05:21",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, levantamiento, pagos]\n\nPregunta: ¿Qué debo hacer para levantar un embargo?\n\nRespuesta: Pagar la totalidad de la deuda y radicar los soportes en el CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6538283934439144
+    }
+  ],
+  "2e30a4f1-6698-4400-ab84-62e3fd7aba5d": [
+    {
+      "message": "la página de exógena no esta funcionando",
+      "timestamp": "30/10/2025, 13:37:05",
+      "context": [],
+      "topScore": 0.5717696229323079
+    },
+    {
+      "message": "entomces",
+      "timestamp": "30/10/2025, 13:37:19",
+      "context": [],
+      "topScore": 0.6239290987837918
+    }
+  ],
+  "141b27ae-5079-4783-a98b-3ecf248d6c0f": [
+    {
+      "message": "por favor necesito cargar los medios magneticos del año 2024 al portal",
+      "timestamp": "30/10/2025, 13:38:34",
+      "context": [],
+      "topScore": 0.5999974810873028
+    },
+    {
+      "message": "eso quiere decir que?",
+      "timestamp": "30/10/2025, 13:38:48",
+      "context": [],
+      "topScore": 0.5951534180449616
+    }
+  ],
+  "50e3bba5-e69b-4979-85d6-8c4319fc2f15": [
+    {
+      "message": "como puedo registrar la exogena",
+      "timestamp": "30/10/2025, 13:41:40",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [firma electrónica, universo online, ICA]\n\nPregunta: ¿Cómo genero mi firma electrónica para trámites tributarios en Yopal?\n\nRespuesta: Ingresa al sistema Universo Online, en la pestaña de “Impuesto de Industria y Comercio” selecciona “firma electrónica” y sigue el instructivo disponible.\n\nMás información en:\n\n[impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6749367689557909
+    }
+  ],
+  "a9b71ed6-9a23-4d4e-bf51-e1ae5292c13e": [
+    {
+      "message": "el portal para presentacion informacion exogena no funciona ",
+      "timestamp": "30/10/2025, 13:58:44",
+      "context": [],
+      "topScore": 0.6025817441300562
+    }
+  ],
+  "583c1c47-689a-40a5-9a21-eb6dc56e6f8f": [
+    {
+      "message": "necesito subir la exogena pero me arroja error q esta invalido",
+      "timestamp": "30/10/2025, 14:00:16",
+      "context": [],
+      "topScore": 0.6418045083891802
+    }
+  ],
+  "c05229af-6909-44bd-baa1-49593c89c249": [
+    {
+      "message": "Ampliaron la fecha de la exogea ",
+      "timestamp": "30/10/2025, 14:37:06",
+      "context": [],
+      "topScore": 0.6062501378247331
+    },
+    {
+      "message": "exogena ",
+      "timestamp": "30/10/2025, 14:37:14",
+      "context": [],
+      "topScore": 0.5818142231992371
+    },
+    {
+      "message": "que si ampliaron la fecha de la exogena ",
+      "timestamp": "30/10/2025, 14:37:32",
+      "context": [],
+      "topScore": 0.6296275098257632
+    }
+  ],
+  "265e4b15-b8ec-471b-9d53-925c830a164f": [
+    {
+      "message": "no sirve la plataforma de exogena",
+      "timestamp": "30/10/2025, 15:22:11",
+      "context": [],
+      "topScore": 0.6003060716022982
+    },
+    {
+      "message": "no contestan",
+      "timestamp": "30/10/2025, 15:38:15",
+      "context": [],
+      "topScore": 0.629959754533283
+    }
+  ],
+  "9ee6d340-e2b3-4c4e-9f4e-3fd8335b34c6": [
+    {
+      "message": "EXOGENA",
+      "timestamp": "30/10/2025, 15:32:03",
+      "context": [],
+      "topScore": 0.6162378012384387
+    }
+  ],
+  "bac63ac5-e5bf-4c31-8641-10ebd3097ef3": [
+    {
+      "message": "TENGO PROBLEMAS CON LA PGAINA PARA PRESENTAR MEDIOS",
+      "timestamp": "30/10/2025, 15:33:11",
+      "context": [],
+      "topScore": 0.6337685558844178
+    },
+    {
+      "message": "ayudame",
+      "timestamp": "30/10/2025, 15:35:00",
+      "context": [],
+      "topScore": 0.6399545187139785
+    },
+    {
+      "message": "ASESOR",
+      "timestamp": "30/10/2025, 15:35:09",
+      "context": [],
+      "topScore": 0.6399012973112757
+    }
+  ],
+  "cb0c66f5-21a6-441c-9bd9-3a2b43fba8bc": [
+    {
+      "message": "no me deja ingresar a link de exogena",
+      "timestamp": "30/10/2025, 15:49:36",
+      "context": [],
+      "topScore": 0.6378796523282221
+    },
+    {
+      "message": "como hago",
+      "timestamp": "30/10/2025, 15:52:36",
+      "context": [],
+      "topScore": 0.6257980982923808
+    },
+    {
+      "message": "eso es el problema no encuentro el concepto que olvide mi contraseña",
+      "timestamp": "30/10/2025, 15:53:30",
+      "context": [
+        "Categoría: Atención al CiudadanoTags: [usuario, contraseña, recuperación, acceso, trámites en línea]Pregunta: He olvidado el usuario y la clave para descargar un certificado o realizar un trámite en línea.Respuesta: Si olvidaste tu usuario o clave de acceso, ingresa al portal donde realizaste el trámite y selecciona la opción “¿Olvidó su contraseña?” o “Recuperar usuario”. Si el sistema no permite la recuperación automática, comunícate con la entidad o dependencia encargada del trámite para recibir apoyo en la recuperación de tu acceso."
+      ],
+      "topScore": 0.68183067807594
+    },
+    {
+      "message": "cual portal??",
+      "timestamp": "30/10/2025, 15:55:23",
+      "context": [
+        "Categoría: Vivienda y Desarrollo\n\nTags: [indev, vivienda, desarrollo]\n\nPregunta: ¿Dónde queda el Indev? | ¿Dónde está ubicado el Indev?\n\nRespuesta: En la Carrera. 24 #10-39, Yopal."
+      ],
+      "topScore": 0.6697766530671753
+    }
+  ],
+  "d28c8ce0-1f03-4a38-b874-9feca24353c4": [
+    {
+      "message": "no me permite subir los documentos en exógena",
+      "timestamp": "30/10/2025, 16:20:08",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6688696088542098
+    },
+    {
+      "message": "vencimiento",
+      "timestamp": "30/10/2025, 16:20:30",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [impuesto predial, descuentos, fechas límite]\n\nPregunta: ¿Cuáles son las fechas límite para pagar con descuento?\n\nRespuesta: En 2025 se otorgan descuentos por pago oportuno: 10% hasta el 30 de noviembre y 5% hasta el 31 de diciembre."
+      ],
+      "topScore": 0.6775144337172146
+    },
+    {
+      "message": "exogena",
+      "timestamp": "30/10/2025, 16:20:33",
+      "context": [],
+      "topScore": 0.5818142231992371
+    }
+  ],
+  "ef19eaf0-2571-471e-97d2-f59abc7d8716": [
+    {
+      "message": "ESTOY PRESENTADO LA EXOGENA Y LA PAGINA NO ME FUNICONA",
+      "timestamp": "30/10/2025, 16:36:10",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, CACY, firma electrónica]Pregunta: ¿No me aparece para firmar una declaración?Respuesta:\n\nPuedes acercarte al CACY (Centro de Atención al Ciudadano de Yopal), módulo 11, solicitar turno y allí te ayudarán a solucionar el inconveniente que presentas.\n\nTambién puedes revisar el instructivo para generar la firma electrónica en el siguiente enlace: [Instructivo](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6504304162105572
+    },
+    {
+      "message": "CON IND Y CIO POR FAVOR",
+      "timestamp": "30/10/2025, 16:36:54",
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [impuesto de industria y comercio, ica, pagos]\n\nPregunta: ¿Cómo puedo pagar el Impuesto de Industria y Comercio? | ¿Cómo puedo pagar el recibo de Industria y Comercio?Respuesta: El pago se realiza a través del portal de impuestos Yopal.Más información en: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6554786991088698
+    },
+    {
+      "message": "EXOGENA",
+      "timestamp": "30/10/2025, 16:37:06",
+      "context": [],
+      "topScore": 0.6162378012384387
+    }
+  ],
+  "7cbb1f46-eae9-4650-995a-7a3eb554464b": [
+    {
+      "message": "NO ESTA SIRVIENDO LA PAGINA EXOGENA",
+      "timestamp": "30/10/2025, 16:56:32",
+      "context": [],
+      "topScore": 0.6026034215462299
+    },
+    {
+      "message": "ASESOR",
+      "timestamp": "30/10/2025, 16:56:41",
+      "context": [],
+      "topScore": 0.6399012973112757
+    },
+    {
+      "message": "ASESOR",
+      "timestamp": "30/10/2025, 16:58:00",
+      "context": [],
+      "topScore": 0.6399012973112757
+    },
+    {
+      "message": "ASESOR",
+      "timestamp": "30/10/2025, 16:58:07",
+      "context": [],
+      "topScore": 0.6399012973112757
+    }
+  ],
+  "79c3bc2f-ca54-43a4-a445-880021d64b78": [
+    {
+      "message": "No me deja entrar",
+      "timestamp": "30/10/2025, 17:27:48",
+      "context": [],
+      "topScore": 0.6262557552399768
+    }
+  ],
+  "7b7fc2c0-e483-42e1-9edd-da94e5a2bb0b": [
+    {
+      "message": "estoy intentando presentar los medios magneticos, pero el portal me saca un error ",
+      "timestamp": "30/10/2025, 17:36:17",
+      "context": [],
+      "topScore": 0.6277585072130135
+    },
+    {
+      "message": "error portal tribuatrio",
+      "timestamp": "30/10/2025, 17:36:31",
+      "context": [],
+      "topScore": 0.6280876697034877
+    }
+  ],
+  "21818e14-85f3-43d5-9b64-afcdd8694683": [
+    {
+      "message": "Estoy tratando de presentar la informacion exogena, pero la pagina no funciona",
+      "timestamp": "30/10/2025, 18:20:41",
+      "context": [],
+      "topScore": 0.6244555843995534
+    }
+  ],
+  "b23daf63-da17-4172-a43c-6200d3e41539": [
+    {
+      "message": "quiero saber como llenar los formatos de la exogena ",
+      "timestamp": "30/10/2025, 18:31:50",
+      "context": [],
+      "topScore": 0.6316474398239733
+    }
+  ],
+  "c119e6d4-e3a4-4b55-9c09-f7bbdabf78f5": [
+    {
+      "message": "exogena, no funciona la página",
+      "timestamp": "30/10/2025, 18:34:20",
+      "context": [],
+      "topScore": 0.577359575913471
+    }
+  ],
+  "de233546-6d75-4940-928d-463561eb6a6e": [
+    {
+      "message": "La pagina para cargar la información exógena no esta funcionando",
+      "timestamp": "30/10/2025, 19:04:14",
+      "context": [],
+      "topScore": 0.5741468579362881
+    },
+    {
+      "message": "Vencimiento información exógena",
+      "timestamp": "30/10/2025, 19:04:39",
+      "context": [],
+      "topScore": 0.6283086005458642
+    }
+  ],
+  "493b5d4f-43b0-44fb-a678-5b0c8dcd4ada": [
+    {
+      "message": "estoy intentando presentar exógena municipal. me ro me sale error en servidor. intente de todos los navegadoras",
+      "timestamp": "30/10/2025, 19:31:53",
+      "context": [],
+      "topScore": 0.6308753461400114
+    },
+    {
+      "message": "hay problemas con la plataforma de la exogena",
+      "timestamp": "30/10/2025, 19:42:24",
+      "context": [],
+      "topScore": 0.6013996653532251
+    }
+  ],
+  "601686c9-6837-4be8-ba19-cf9252d12505": [
+    {
+      "message": "es que la pagina para subir la exógena no esta funcionando",
+      "timestamp": "30/10/2025, 19:51:04",
+      "context": [],
+      "topScore": 0.5745670311926513
+    }
+  ],
+  "aded2535-9776-4169-913c-20b2af2c5394": [
+    {
+      "message": "NO PUEDO INGRESAR AL MODULO DE INFORMACION EXOGENA",
+      "timestamp": "30/10/2025, 20:11:25",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6550555050888623
+    }
+  ],
+  "f0778b7f-ce1a-45f5-86a9-87751ca3d766": [
+    {
+      "message": "estoy tratando de cargar la exogena y el modulo no me lo permite",
+      "timestamp": "30/10/2025, 20:38:36",
+      "context": [],
+      "topScore": 0.6221096795104477
+    },
+    {
+      "message": "exogena",
+      "timestamp": "30/10/2025, 20:53:04",
+      "context": [],
+      "topScore": 0.5818142231992371
+    }
+  ],
+  "6c081b68-825a-423f-9b74-8ee1ff729043": [
+    {
+      "message": "exogena ",
+      "timestamp": "30/10/2025, 20:48:31",
+      "context": [],
+      "topScore": 0.5818142231992371
+    },
+    {
+      "message": "Exógena ",
+      "timestamp": "30/10/2025, 20:48:40",
+      "context": [],
+      "topScore": 0.6009090829128078
+    }
+  ],
+  "1c68746d-1c96-416d-b295-d68b179757c8": [
+    {
+      "message": "neceito presentar inforamcion exogena",
+      "timestamp": "30/10/2025, 21:00:12",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6875331231011947
+    },
+    {
+      "message": "exogena ica",
+      "timestamp": "30/10/2025, 21:00:21",
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [ica, declaración anual, régimen preferencial]\n\nPregunta: ¿Quiénes deben presentar la declaración anual del ICA?Respuesta: La declaración anual debe ser presentada por las personas naturales clasificadas en el régimen preferencial.Más detalles en: [normatividad](https://www.yopal-casanare.gov.co/tema/normatividad/)"
+      ],
+      "topScore": 0.6579256802600219
+    }
+  ],
+  "622d250f-9fee-4bc1-862c-db2874dbf6b8": [
+    {
+      "message": "no he podido  enviar la informacion exogena 2024 porq el portal opcion exogena esta fallando no permite carga la informacion",
+      "timestamp": "30/10/2025, 21:40:29",
+      "context": [],
+      "topScore": 0.64462247006879
+    },
+    {
+      "message": "el portal de exogena no permite cargar la informacion esta falladno desde ayer, es posible  ",
+      "timestamp": "30/10/2025, 21:52:37",
+      "context": [],
+      "topScore": 0.5879520336302954
+    }
+  ],
+  "3c166905-6cae-401b-86ac-ee3b1e21562b": [
+    {
+      "message": "necesito radicar la informacion exogena y la pagina no sirve",
+      "timestamp": "31/10/2025, 01:24:54",
+      "context": [],
+      "topScore": 0.609151387796716
+    }
+  ],
+  "f6e072f0-bac0-4932-8261-222851289db2": [
+    {
+      "message": "la pagina de informacion exogena no funciona",
+      "timestamp": "31/10/2025, 05:29:14",
+      "context": [],
+      "topScore": 0.5951054192069074
+    },
+    {
+      "message": "Resolucion n°356 del 29 de octubre de 2025 ",
+      "timestamp": "31/10/2025, 11:21:48",
+      "context": [],
+      "topScore": 0.6478563405158076
+    },
+    {
+      "message": "Resolucion 356 del 29 de Octubre 2025",
+      "timestamp": "31/10/2025, 11:22:06",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, normativa, Acuerdo 020 de 2022]\n\nPregunta: ¿En qué norma está detallado el Impuesto Predial?\n\nRespuesta: En el Acuerdo 020 del 9 de diciembre de 2022."
+      ],
+      "topScore": 0.6503423903096334
+    }
+  ],
+  "8c1bef94-ce9f-4186-ba50-7b8662d4ee14": [
+    {
+      "message": "No está funcionando desde ayer  universo para presentar exógena ",
+      "timestamp": "31/10/2025, 05:31:28",
+      "context": [],
+      "topScore": 0.5542111420166317
+    }
+  ],
+  "9dc1abe6-63b8-4c75-abc3-82aaefa69453": [
+    {
+      "message": "necesito presentar medios magneticos pero a plataforma no sirve",
+      "timestamp": "31/10/2025, 05:54:49",
+      "context": [],
+      "topScore": 0.6186082907754074
+    },
+    {
+      "message": "medios magneticos",
+      "timestamp": "31/10/2025, 05:55:09",
+      "context": [],
+      "topScore": 0.5851456732541125
+    }
+  ],
+  "1872e25c-7c54-4566-a9a3-7cc509320dc7": [
+    {
+      "message": "si pero la pagina esta caida",
+      "timestamp": "31/10/2025, 06:00:15",
+      "context": [],
+      "topScore": 0.5940699538918253
+    }
+  ],
+  "3e8ae089-928f-467b-96e5-e83af07996b8": [
+    {
+      "message": "exogena",
+      "timestamp": "31/10/2025, 06:07:40",
+      "context": [],
+      "topScore": 0.5818142231992371
+    }
+  ],
+  "1dd47868-a786-4587-8f81-ce20a8baf2c4": [
+    {
+      "message": "no he podido presentar la exogena, la plataforma no carga los archivos",
+      "timestamp": "31/10/2025, 06:42:26",
+      "context": [],
+      "topScore": 0.6067302046207474
+    }
+  ],
+  "0f61b301-344b-49f5-954e-b7d36ef238e3": [
+    {
+      "message": "Hay exoneración",
+      "timestamp": "31/10/2025, 06:52:33",
+      "context": [],
+      "topScore": 0.6085716561488959
+    },
+    {
+      "message": "Para adulro mayor 70 años paciente oncologico ",
+      "timestamp": "31/10/2025, 06:52:53",
+      "context": [],
+      "topScore": 0.6206129806832172
+    }
+  ],
+  "273a567d-2cc6-43fc-9d62-d19c88c2fc74": [
+    {
+      "message": "el portal tributario no sirve",
+      "timestamp": "31/10/2025, 06:57:41",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [pago de impuestos, Yopal, universo online]\n\nPregunta: ¿Dónde ingreso para liquidar y pagar mis impuestos en Yopal?\n\nRespuesta: A través del enlace: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6509709612111352
+    }
+  ],
+  "b57bcfb3-8698-4883-854e-a4b80c6f6ed6": [
+    {
+      "message": "no esta funcionando la pagina para cargar la informacion exogena?",
+      "timestamp": "31/10/2025, 07:00:16",
+      "context": [],
+      "topScore": 0.6111987368347023
+    },
+    {
+      "message": "cual es la pagina para cargar la informacion exogena ",
+      "timestamp": "31/10/2025, 07:01:02",
+      "context": [
+        "Categoría: Planeación – SISBÉN\n\nTags: [SISBÉN, extranjeros, PPT, cédula de extranjería]\n\nPregunta: ¿Qué documentos deben presentar los ciudadanos extranjeros para solicitar la encuesta del SISBÉN?\n\nRespuesta: Pueden presentar:\n\nCédula de extranjería.\n\nPermiso de Protección Temporal (PPT).\n\nSalvoconducto para refugiado (aplica especialmente para personas venezolanas)."
+      ],
+      "topScore": 0.6521404689039841
+    },
+    {
+      "message": "que sabes",
+      "timestamp": "31/10/2025, 07:01:07",
+      "context": [],
+      "topScore": 0.601763618575222
+    },
+    {
+      "message": "ahhhh ok... graccias",
+      "timestamp": "31/10/2025, 07:01:17",
+      "context": [],
+      "topScore": 0.5765829257539414
+    }
+  ],
+  "bb14f892-57a0-4623-ad5a-635a49caf4a0": [
+    {
+      "message": "debo presentar exogena 2024",
+      "timestamp": "31/10/2025, 07:07:45",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.663478638613108
+    },
+    {
+      "message": "pero arroja error",
+      "timestamp": "31/10/2025, 07:07:49",
+      "context": [],
+      "topScore": 0.6427234544063503
+    }
+  ],
+  "e38510f3-0648-47ef-b7b8-1c8978841948": [
+    {
+      "message": "Necesito Subir los soportes de la exógena",
+      "timestamp": "31/10/2025, 07:29:58",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, levantamiento, pagos]\n\nPregunta: ¿Qué debo hacer para levantar un embargo?\n\nRespuesta: Pagar la totalidad de la deuda y radicar los soportes en el CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6883045251492336
+    }
+  ],
+  "5ce3bb9b-7029-456d-aa38-726a0edafec3": [
+    {
+      "message": "el portal tributario no funciona ",
+      "timestamp": "31/10/2025, 08:16:55",
+      "context": [],
+      "topScore": 0.6431255967873516
+    }
+  ],
+  "086221ad-d71d-495c-b9d0-cb140c83f7d8": [
+    {
+      "message": "desde hace tres dias estoy tratando de montar la informacion exogena, pero el portal se queda cargando",
+      "timestamp": "31/10/2025, 08:19:00",
+      "context": [],
+      "topScore": 0.5888894263135789
+    }
+  ],
+  "d14dad5b-d420-44c5-a44f-060eb2eb1ded": [
+    {
+      "message": "exogena",
+      "timestamp": "31/10/2025, 08:45:35",
+      "context": [],
+      "topScore": 0.5818142231992371
+    },
+    {
+      "message": "ayuda información exogena",
+      "timestamp": "31/10/2025, 08:45:45",
+      "context": [],
+      "topScore": 0.6361199021774336
+    }
+  ],
+  "f49b6adb-053d-45c9-917e-66856b3a4ecf": [
+    {
+      "message": "necesito presentar exogena 2024, pero el portal esta fallando ",
+      "timestamp": "31/10/2025, 08:45:37",
+      "context": [],
+      "topScore": 0.6029868957368393
+    }
+  ],
+  "64100726-f2e2-4f9f-9115-da19e7fc6c9f": [
+    {
+      "message": "no me esta procesando el cargue de la información exogena ",
+      "timestamp": "31/10/2025, 09:00:45",
+      "context": [],
+      "topScore": 0.5998440175807265
+    }
+  ],
+  "a7a7ebc9-e00c-480b-b2b3-34e841d54a02": [
+    {
+      "message": "la plataforma y/o el sistema para presentar medios magneticos se encuentra disponible?",
+      "timestamp": "31/10/2025, 09:01:55",
+      "context": [],
+      "topScore": 0.6047921077204966
+    }
+  ],
+  "7f72c7cc-38d2-4bde-9a7a-949d7361ab0d": [
+    {
+      "message": "presente una peqr con numero de radicado 672609057608",
+      "timestamp": "31/10/2025, 09:15:37",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [rentas, hacienda, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Dirección de Rentas?\n\nRespuesta: 608 634 5913 Ext. 1012"
+      ],
+      "topScore": 0.6973535613700099
+    }
+  ],
+  "89f6d71b-258a-47f0-b58d-9d2690926240": [
+    {
+      "message": "La página donde se carga la información exógena no funciona",
+      "timestamp": "31/10/2025, 09:34:12",
+      "context": [],
+      "topScore": 0.5673615975419678
+    }
+  ],
+  "6e345423-cc8a-4030-bf5a-375750741c45": [
+    {
+      "message": "Y para que sirven esas extensiones?",
+      "timestamp": "31/10/2025, 09:39:47",
+      "context": [],
+      "topScore": 0.6064017512848139
+    }
+  ],
+  "0c954838-2384-489f-82c9-19f68949868e": [
+    {
+      "message": "sabes si el portal tributario de exogena esta presentando fallas",
+      "timestamp": "31/10/2025, 09:41:13",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Catastro\n\nTags: [predial, catastro, errores de base de datos]\n\nPregunta: ¿Qué hacer si mi predio no aparece con mi número de cédula?\n\nRespuesta: Debes dirigirte a la oficina de Catastro para corregir errores en nombre, cédula, dirección, avalúos o metrajes."
+      ],
+      "topScore": 0.6596789010249051
+    }
+  ],
+  "efa5d389-474f-49c2-a024-9df9be0fbf74": [
+    {
+      "message": "La pagina para cargar la información exógena no esta funcionando, van a ampliar los plazos para el cargue",
+      "timestamp": "31/10/2025, 09:50:02",
+      "context": [],
+      "topScore": 0.5804000271158477
+    }
+  ],
+  "c3c9ba57-e798-4a19-80d6-deab866274e1": [
+    {
+      "message": "estoy tratando de subir la informacion exogena",
+      "timestamp": "31/10/2025, 09:52:34",
+      "context": [],
+      "topScore": 0.6409646230443962
+    },
+    {
+      "message": "pero la pagina no funciona",
+      "timestamp": "31/10/2025, 09:52:44",
+      "context": [],
+      "topScore": 0.5819166948019832
+    },
+    {
+      "message": "llevo desde ltempranp",
+      "timestamp": "31/10/2025, 09:52:53",
+      "context": [],
+      "topScore": 0.6176858208834025
+    },
+    {
+      "message": "y no funcionaa",
+      "timestamp": "31/10/2025, 09:52:57",
+      "context": [],
+      "topScore": 0.5977706948776674
+    },
+    {
+      "message": "que hagooooooooooooooooooo",
+      "timestamp": "31/10/2025, 09:53:08",
+      "context": [],
+      "topScore": 0.6016373994366903
+    }
+  ],
+  "ee0e6eeb-c647-4e0f-8772-08b3b8e72f4a": [
+    {
+      "message": "Estoy tratando de cargar la información exógena y me genera error de servidor en la aplicación por favor me podría ayudar?",
+      "timestamp": "31/10/2025, 09:58:12",
+      "context": [],
+      "topScore": 0.6056164849776849
+    }
+  ],
+  "0af64cae-3392-4146-874a-44862896fd66": [
+    {
+      "message": "NO DEJA SUBIR LOS FORMATOS DE EXOGENA ",
+      "timestamp": "31/10/2025, 10:20:01",
+      "context": [],
+      "topScore": 0.6425044916299483
+    }
+  ],
+  "40fb7eb8-8f7c-45cf-8f30-a914756c46ef": [
+    {
+      "message": "acceso a la plataforma para presentar informacion exogena",
+      "timestamp": "31/10/2025, 10:31:38",
+      "context": [],
+      "topScore": 0.6405274163497278
+    }
+  ],
+  "55acc8f4-a25e-41c2-a9fe-9769d98c4147": [
+    {
+      "message": "HACIENDA",
+      "timestamp": "31/10/2025, 12:00:58",
+      "context": [],
+      "topScore": 0.6459670992224014
+    },
+    {
+      "message": "RENTAS",
+      "timestamp": "31/10/2025, 12:01:11",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [rentas, hacienda, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Dirección de Rentas?\n\nRespuesta: 608 634 5913 Ext. 1012"
+      ],
+      "topScore": 0.684930169103055
+    }
+  ],
+  "43cb9d51-a6a2-422d-8846-125a47073ac2": [
+    {
+      "message": "Respuest de radicado en transito",
+      "timestamp": "31/10/2025, 12:36:46",
+      "context": [
+        "Categoría: Movilidad\n\nTags: [certificado de movilidad, trámites, radicado]\n\nPregunta: ¿Cómo se tramita el certificado de movilidad en Yopal?\n\nRespuesta: Radica un oficio con tus datos en Correspondencia Externa de la Alcaldía. Recibirás un número de radicado para seguimiento."
+      ],
+      "topScore": 0.6941348100979041
+    },
+    {
+      "message": "Transito",
+      "timestamp": "31/10/2025, 12:37:04",
+      "context": [
+        "Categoría: Movilidad\n\nTags: [movilidad, tránsito, tráfico, transporte]\n\nPregunta: ¿Dónde está ubicada la Secretaría de Movilidad? | ¿Dónde queda la Secretaría de Movilidad?\n\nRespuesta: En la Trasversal. 18, antiguas instalaciones de Equión."
+      ],
+      "topScore": 0.6695372874057097
+    }
+  ],
+  "36e2908a-258a-445c-9c8b-358b9953ccdb": [
+    {
+      "message": "portal tributarii",
+      "timestamp": "31/10/2025, 12:52:57",
+      "context": [],
+      "topScore": 0.6487591807922081
+    }
+  ],
+  "4b73a82a-4c64-4cdf-b008-fea36225dbe7": [
+    {
+      "message": "Quiero saber sobre el subsidio de adulto mayor ",
+      "timestamp": "31/10/2025, 13:06:40",
+      "context": [
+        "Categoría: Programas Sociales\n\nTags: [renta ciudadana, transferencias monetarias, beneficiarios, programas sociales]\n\nPregunta: ¿Cómo saber si soy beneficiario de Renta Ciudadana u otras transferencias monetarias?\n\nRespuesta: La verificación de beneficiarios de Renta Ciudadana y otros programas de transferencias monetarias se gestiona a través de las bases de datos oficiales de programas sociales del gobierno. Esta información puede consultarse en los portales oficiales en línea o en los puntos de atención designados por las entidades correspondientes."
+      ],
+      "topScore": 0.6985408253761244
+    },
+    {
+      "message": "Adulto mayor ",
+      "timestamp": "31/10/2025, 13:06:52",
+      "context": [],
+      "topScore": 0.5949645280501323
+    },
+    {
+      "message": "Colombia mayor ",
+      "timestamp": "31/10/2025, 13:07:57",
+      "context": [],
+      "topScore": 0.5882508229269935
+    }
+  ],
+  "cdcba3c8-9e9d-4618-8ea2-6ccc668c4636": [
+    {
+      "message": "TENGO PROBLEMAS PARTA SUBIR LA INFORMACION EXOGENA",
+      "timestamp": "31/10/2025, 13:09:37",
+      "context": [],
+      "topScore": 0.6346015670398147
+    },
+    {
+      "message": "LA PLATAFORMA NO FUNCIONA",
+      "timestamp": "31/10/2025, 13:09:44",
+      "context": [],
+      "topScore": 0.6205615943437408
+    },
+    {
+      "message": "EXOGENA",
+      "timestamp": "31/10/2025, 13:09:58",
+      "context": [],
+      "topScore": 0.6162378012384387
+    }
+  ],
+  "63eb0af8-ed35-4a68-ae87-b9df689c72cd": [
+    {
+      "message": "Exogena",
+      "timestamp": "31/10/2025, 13:52:50",
+      "context": [],
+      "topScore": 0.5826299109160583
+    },
+    {
+      "message": "numero hacienda",
+      "timestamp": "31/10/2025, 13:53:15",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [rentas, hacienda, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Dirección de Rentas?\n\nRespuesta: 608 634 5913 Ext. 1012"
+      ],
+      "topScore": 0.6954625411235164
+    }
+  ],
+  "6c7772d0-4f41-487e-971a-07b46ba3047a": [
+    {
+      "message": "esta caida l pagina",
+      "timestamp": "31/10/2025, 14:20:00",
+      "context": [],
+      "topScore": 0.5778432699295256
+    }
+  ],
+  "07a0a11e-1a48-4f9b-9f10-16ca325cef7e": [
+    {
+      "message": "NO PUEDO CARGAR LA INFORMACION EXOGENA",
+      "timestamp": "31/10/2025, 14:24:12",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6574502489990568
+    }
+  ],
+  "ebe64f8f-3711-4e73-a269-1c641b626005": [
+    {
+      "message": "presentacion exogena",
+      "timestamp": "31/10/2025, 14:51:03",
+      "context": [],
+      "topScore": 0.6356266874178872
+    }
+  ],
+  "3d3c4762-c7c5-4083-aca7-e5a986d1d61e": [
+    {
+      "message": "AMPLIACION DE LA FECHA DE PRESENTACION DE INFORMACION EXOGENA",
+      "timestamp": "31/10/2025, 14:51:55",
+      "context": [],
+      "topScore": 0.644779478795638
+    }
+  ],
+  "5ac3e960-380c-4eb2-9be9-f37bc061718d": [
+    {
+      "message": "Exogena",
+      "timestamp": "31/10/2025, 15:17:05",
+      "context": [],
+      "topScore": 0.5826299109160583
+    }
+  ],
+  "7405bf9c-80c2-474f-8d64-3883eab737e3": [
+    {
+      "message": "hay alguna contingencia establecida?",
+      "timestamp": "31/10/2025, 15:30:56",
+      "context": [],
+      "topScore": 0.6301230701430147
+    }
+  ],
+  "dbf33d45-850c-45a3-8798-69c91ae494d4": [
+    {
+      "message": "LA PAGINA PORQUE DEJA DE FUNCIONAR TIENE HORARIOS PARA PRESENTAR IMPUESTOS? industria y comercio",
+      "timestamp": "31/10/2025, 15:33:32",
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [impuesto de industria y comercio, ica, pagos]\n\nPregunta: ¿Cómo puedo pagar el Impuesto de Industria y Comercio? | ¿Cómo puedo pagar el recibo de Industria y Comercio?Respuesta: El pago se realiza a través del portal de impuestos Yopal.Más información en: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6974514995368244
+    }
+  ],
+  "1956e653-ce22-4f40-bc92-6f7a1983925a": [
+    {
+      "message": "Debo reportar la informacion exogena pero la pagina presenta falla, esta caida",
+      "timestamp": "31/10/2025, 15:34:18",
+      "context": [],
+      "topScore": 0.647634185929743
+    }
+  ],
+  "fba9e82d-0e03-4974-be7d-efaf42c080e8": [
+    {
+      "message": "esta disponible el link para la exogena?",
+      "timestamp": "31/10/2025, 15:34:36",
+      "context": [],
+      "topScore": 0.6193607609130319
+    }
+  ],
+  "c715d548-b9b8-4c8f-8b24-c218d3b292c2": [
+    {
+      "message": "Quisiera saber si me puede ayudar  en una repuesta sobre un radicado  no número 2025159050\t",
+      "timestamp": "31/10/2025, 15:34:48",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [rentas, hacienda, contacto]\n\nPregunta: ¿Cuál es el número de teléfono de la Dirección de Rentas?\n\nRespuesta: 608 634 5913 Ext. 1012"
+      ],
+      "topScore": 0.6676956106725528
+    }
+  ],
+  "30a2015c-fe64-47db-8709-79493544fcd6": [
+    {
+      "message": "ESTOY TRATANDO DE SUBIR LA EXOGENA Y NO ME DEJA",
+      "timestamp": "31/10/2025, 15:35:36",
+      "context": [],
+      "topScore": 0.6362300375833594
+    }
+  ],
+  "36863ce3-d100-446a-8c18-5094a5b3da57": [
+    {
+      "message": "Para saber si corrieron el plazo para presentar la exogena del año 2024?",
+      "timestamp": "31/10/2025, 15:49:38",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [plazos tributarios, ICA, rete ICA, exógena]\n\nPregunta: ¿Dónde consulto los plazos para la presentación de declaraciones tributarias en Yopal?\n\nRespuesta: En la Resolución 508 de diciembre de 2023 y la Resolución 263 de agosto de 2024.\n\nMás información en:\n\n-Normatividad\n\n-Rentas Yopal"
+      ],
+      "topScore": 0.6929458741392112
+    },
+    {
+      "message": "No me puedes ayudar?",
+      "timestamp": "31/10/2025, 15:50:05",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6515018533623957
+    },
+    {
+      "message": "Exogena ",
+      "timestamp": "31/10/2025, 15:50:25",
+      "context": [],
+      "topScore": 0.5826299109160583
+    }
+  ],
+  "d239c451-099b-4d08-b6c8-14bb57707f7d": [
+    {
+      "message": "Estoy generando el impuesto de ica y me parece un letrero que dicer Referencia a objeto no establecida como instancia de un objeto industria y comercio",
+      "timestamp": "31/10/2025, 16:23:38",
+      "context": [
+        "Categoría: Secretaría de Hacienda – ICATags: [impuesto de industria y comercio, ica, pagos]\n\nPregunta: ¿Cómo puedo pagar el Impuesto de Industria y Comercio? | ¿Cómo puedo pagar el recibo de Industria y Comercio?Respuesta: El pago se realiza a través del portal de impuestos Yopal.Más información en: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6942809961345456
+    },
+    {
+      "message": "Referencia a objeto no establecida como instancia de un objeto",
+      "timestamp": "31/10/2025, 16:24:21",
+      "context": [],
+      "topScore": 0.5436169870497216
+    }
+  ],
+  "8019664c-e2a1-4b1e-b01f-2be184d00eba": [
+    {
+      "message": "necesito un correo del despacho",
+      "timestamp": "31/10/2025, 16:27:58",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [hacienda, despacho, contacto]\n\nPregunta: ¿Cuál es el número de teléfono del Despacho de la Secretaría de Hacienda?\n\nRespuesta: 608 634 5913 Ext. 1011"
+      ],
+      "topScore": 0.6761977550146365
+    }
+  ],
+  "2a15d18c-849b-4b27-b378-ee6b46ca681d": [
+    {
+      "message": "Cómo hago si está mal liquidado en línea ",
+      "timestamp": "31/10/2025, 16:30:46",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [resoluciones, acuerdos de pago, trámites]\n\nPregunta: ¿Cómo puedo saber si mi resolución ya está lista?\n\nRespuesta: Recibirá una llamada del contador. Si no lo contactan en 15 días hábiles, debe acercarse al CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.674638627334444
+    },
+    {
+      "message": "Liquidación en línea está mal ",
+      "timestamp": "31/10/2025, 16:30:58",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, pago en línea, recibo]\n\nPregunta: ¿Se puede pagar el Impuesto Predial en línea? | ¿Se puede pagar el recibo Predial en línea?\n\nRespuesta: Sí. El municipio dispone de una plataforma en línea para realizar pagos electrónicos o descargar el recibo de pago."
+      ],
+      "topScore": 0.6964777917083379
+    }
+  ],
+  "88f8d1ed-2d8c-4505-af35-b60bc7f35b87": [
+    {
+      "message": "exogena",
+      "timestamp": "31/10/2025, 17:46:42",
+      "context": [],
+      "topScore": 0.5818142231992371
+    }
+  ],
+  "a0d12ad9-98a0-495b-b2ed-a7c1f973dded": [
+    {
+      "message": "Subsidio adulto mayor",
+      "timestamp": "31/10/2025, 18:11:35",
+      "context": [
+        "Categoría: Secretaría de Salud\n\nTags: [régimen subsidiado, salud, contacto]\n\nPregunta: ¿Cuál es el número de teléfono del Régimen Subsidiado?\n\nRespuesta: 608 634 5913 Ext. 1008"
+      ],
+      "topScore": 0.6747503285544164
+    },
+    {
+      "message": "Pilar solidario",
+      "timestamp": "31/10/2025, 18:11:46",
+      "context": [],
+      "topScore": 0.6453074134301899
+    }
+  ],
+  "633e9b12-6bf8-4a56-80d0-743bab804109": [
+    {
+      "message": "No puedo presentar información  exogena",
+      "timestamp": "31/10/2025, 18:36:17",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, instructivo]Pregunta: ¿Qué hago si no puedo firmar mi declaración?Respuesta: Debes seguir el paso a paso indicado en el instructivo disponible en el portal. Puedes consultarlo en el siguiente enlace: [Instructivo para uso de firma electronica](https://yopalcasanare.micolombiadigital.gov.co/sites/yopalcasanare/content/files/002764/138184_8-instructivo_uso_de_firma_electronica-1.pdf)"
+      ],
+      "topScore": 0.6724394217254068
+    }
+  ],
+  "79d70e54-c6e2-4708-a1b5-ce646438742e": [
+    {
+      "message": "En servicios del ciudadano no sale lo de verificar estado financiero ",
+      "timestamp": "31/10/2025, 23:20:59",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [comprobante de ingreso, rendimiento financiero]\n\nPregunta: ¿Cómo solicito un comprobante de ingreso de rendimiento financiero?\n\nRespuesta: Debes traer una certificación bancaria de los rendimientos financieros y presentarla en el CACY (Centro de Atención al Ciudadano de Yopal) de la Alcaldía de Yopal para radicar la solicitud presencial."
+      ],
+      "topScore": 0.6812454395487484
+    }
+  ],
+  "180a2113-f0d1-4c44-86de-4ad65fbde62f": [
+    {
+      "message": "necesito saber como hago para sacar un certi¿ficado de tradicion de unamoto",
+      "timestamp": "01/11/2025, 10:27:38",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [uso de suelos, curaduría, certificación, trámite]Pregunta: ¿Cómo puedo solicitar certificado sobre el uso de suelos?Respuesta: Debes acercarte a la Curaduría, donde necesitarás presentar la certificación de tradición y libertad, realizar un oficio de solicitud donde indiques tu necesidad y efectuar el pago correspondiente según lo indique la entidad."
+      ],
+      "topScore": 0.6805771133563375
+    },
+    {
+      "message": "sacar certificado de tradicion de una moto discapacidad",
+      "timestamp": "01/11/2025, 10:29:49",
+      "context": [
+        "Categoría: Secretaría de SaludTags: [certificado de discapacidad, gestión diferencial, requisitos, salud]\n\nPregunta: ¿Cómo puedo obtener el Certificado de Discapacidad en Yopal?Respuesta:\n\nEnvía un correo a discapacidadsalud@yopal-casanare.gov.co. con la siguiente información y documentación.\n\nInformación:\n\nEn el correo debes especificar Nombres y apellidos completos de la persona a certificarse\n\nTipo y numero de documento de identificación \n\n2 números de celular de contacto.\n\ndirección y municipio de residencia. \n\nDocumentación en formato pdf:\n\nDocumento de identidad\n\nHistoria clínica que incluya: Diagnostico CIE 10 relacionado con la discapacidad\n\nSoportes de apoyo Diagnóstico emitidos por el medico tratante de la EPS (Entidad Promotora de Salud), relacionados con la discapacidad. \n\n\n\nLa Oficina de Gestión Diferencial es la encargada de realizar la valoración y expedir el certificado, ubicada en la Secretaría de Salud, Colegio Braulio González Sede Centro."
+      ],
+      "topScore": 0.6932852037235196
+    }
+  ],
+  "2080f124-4bcb-42f5-a603-0ea3a6305ae2": [
+    {
+      "message": "Link no disponible",
+      "timestamp": "01/11/2025, 13:23:03",
+      "context": [],
+      "topScore": 0.5887996218619083
+    }
+  ],
+  "23c5dc7c-1df1-4f3e-a3d6-435c46a5821e": [
+    {
+      "message": "QUIERO VER LA LISTA DE NUEVO ESTUDIANTES Y LA ASIGNACION DE SU COLEIGO ",
+      "timestamp": "02/11/2025, 19:51:52",
+      "context": [],
+      "topScore": 0.6382074553710786
+    }
+  ],
+  "5da72cb6-c549-46d5-88ea-7fc0b1a2620e": [
+    {
+      "message": "Donde radico una solicitud de un pare o reductor de velocidad ",
+      "timestamp": "03/11/2025, 09:51:27",
+      "context": [],
+      "topScore": 0.6398035628663861
+    }
+  ],
+  "ec1be292-1ec3-4f2a-a963-78a80ecca62a": [
+    {
+      "message": "lo puedo sacar por la pagina de la alcaldia de yopal",
+      "timestamp": "03/11/2025, 12:24:29",
+      "context": [
+        "Categoría: Rentas e Impuestos\n\nTags: [pago de impuestos, Yopal, universo online]\n\nPregunta: ¿Dónde ingreso para liquidar y pagar mis impuestos en Yopal?\n\nRespuesta: A través del enlace: [impuestos yopal](https://impuestos.yopal.gov.co)"
+      ],
+      "topScore": 0.6858391220813617
+    },
+    {
+      "message": "se puede sacar el pazy salvo virtual",
+      "timestamp": "03/11/2025, 12:25:00",
+      "context": [],
+      "topScore": 0.6370305751462563
+    }
+  ],
+  "b0a4c4b1-4aa4-43b0-8592-4a5cb33eb4d8": [
+    {
+      "message": "el sitio web que me indicas no permite acceso",
+      "timestamp": "03/11/2025, 16:15:56",
+      "context": [],
+      "topScore": 0.6434158330852989
+    },
+    {
+      "message": "sitio web no disponible",
+      "timestamp": "03/11/2025, 16:16:13",
+      "context": [],
+      "topScore": 0.5773741805716377
+    }
+  ],
+  "6f02f7d5-0710-463d-8c0b-71a9f55e63cd": [
+    {
+      "message": "retrocedieron ahi ",
+      "timestamp": "03/11/2025, 19:37:18",
+      "context": [],
+      "topScore": 0.5680362766113033
+    }
+  ],
+  "19f85ad2-0ef6-4493-92ad-67832ef3807a": [
+    {
+      "message": "en pde",
+      "timestamp": "04/11/2025, 11:30:28",
+      "context": [
+        "Categoría: Vivienda y Desarrollo\n\nTags: [indev, vivienda, desarrollo]\n\nPregunta: ¿Dónde queda el Indev? | ¿Dónde está ubicado el Indev?\n\nRespuesta: En la Carrera. 24 #10-39, Yopal."
+      ],
+      "topScore": 0.6577788873460927
+    }
+  ],
+  "745ce691-e479-4e55-91e0-28dbfa987f12": [
+    {
+      "message": "que debo hacer para recibir lo del adulto mayo",
+      "timestamp": "04/11/2025, 12:49:01",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [acuerdo de pago, trámites presenciales, CACY]\n\nPregunta: ¿Debe uno ir personalmente a realizar el proceso?\n\nRespuesta: Sí, el proceso debe hacerse presencialmente en la oficina del CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6698894225841863
+    }
+  ],
+  "0ba993b7-d279-4fe8-a4fd-6986f207bd92": [
+    {
+      "message": "virtuamente quisiera cancelar esto",
+      "timestamp": "04/11/2025, 14:17:17",
+      "context": [],
+      "topScore": 0.6070369100335969
+    }
+  ],
+  "b2569ecf-f754-42e7-82c0-70c7a86e1078": [
+    {
+      "message": "NO VIVO EN YOPAL ",
+      "timestamp": "04/11/2025, 16:14:34",
+      "context": [
+        "Categoría: Secretaría de SaludTags: [vacunación, vacunación eps, ese salud yopal, yopal]\n\nPregunta: ¿Dónde puedo vacunarme en Yopal?Respuesta:\n\nSi estás afiliado a una EPS (Entidad Promotora de Salud): debes acudir a la IPS (INSTITUCIÓN PRESTADORA DE SERVICIOS DE SALUD) asignada por tu EPS (Entidad Promotora de Salud).\n\nSi no estás afiliado: puedes dirigirte a cualquiera de las sedes de la ESE Salud Yopal."
+      ],
+      "topScore": 0.6949786990226453
+    }
+  ],
+  "25c14438-532f-41f6-95d4-d46347763596": [
+    {
+      "message": "quiero averiguar si hay multas o comparendos a nombre de la empresa o por vehiculo",
+      "timestamp": "05/11/2025, 08:07:36",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto de Vehículos Públicos\n\nTags: [vehículos, impuestos, sanciones, mora]\n\nPregunta: ¿Hay sanciones por no pagar este impuesto a tiempo?\n\nRespuesta: Sí. Se aplican sanciones económicas e intereses por mora."
+      ],
+      "topScore": 0.6794584162560869
+    }
+  ],
+  "69409568-38e2-49d5-9d6a-e729876d5ede": [
+    {
+      "message": "Quisiera hacerle seguimiento a un pqr que fue redireccionada a la secretaria de hacienda ",
+      "timestamp": "05/11/2025, 08:43:09",
+      "context": [
+        "Categoría: Atención al Ciudadano\n\nTags: [PQRSD, certificación, trámites ciudadanos]\n\nPregunta: ¿Cómo solicitar un certificado de PQRSD?\n\nRespuesta: Las dependencias envían la base consolidada al correo atencionalciudadano@yopal-casanare.gov.co\n\n. La Oficina de Atención al Ciudadano responde en máximo 2 días hábiles y envía los certificados al correo asignado por la dependencia."
+      ],
+      "topScore": 0.6759121101006083
+    }
+  ],
+  "a2f93f8a-2e22-434c-9d9f-d850d9b0c52f": [
+    {
+      "message": "ME ESTA SOLICITANDO UN USUARIO ",
+      "timestamp": "05/11/2025, 11:21:18",
+      "context": [
+        "Categoría: Atención al CiudadanoTags: [usuario, contraseña, recuperación, acceso, trámites en línea]Pregunta: He olvidado el usuario y la clave para descargar un certificado o realizar un trámite en línea.Respuesta: Si olvidaste tu usuario o clave de acceso, ingresa al portal donde realizaste el trámite y selecciona la opción “¿Olvidó su contraseña?” o “Recuperar usuario”. Si el sistema no permite la recuperación automática, comunícate con la entidad o dependencia encargada del trámite para recibir apoyo en la recuperación de tu acceso."
+      ],
+      "topScore": 0.6541891469518145
+    },
+    {
+      "message": "EN QUE PARTE INGRESO EL CODIGO DE MI ACTIVIDAD",
+      "timestamp": "05/11/2025, 11:22:21",
+      "context": [],
+      "topScore": 0.6444597204885172
+    }
+  ],
+  "372b8f21-422e-4038-b75e-8c1d2c5d6d0b": [
+    {
+      "message": "busco formato de concepto uso de suelo rural para subsidio ",
+      "timestamp": "05/11/2025, 12:24:48",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [uso de suelos, curaduría, certificación, trámite]Pregunta: ¿Cómo puedo solicitar certificado sobre el uso de suelos?Respuesta: Debes acercarte a la Curaduría, donde necesitarás presentar la certificación de tradición y libertad, realizar un oficio de solicitud donde indiques tu necesidad y efectuar el pago correspondiente según lo indique la entidad."
+      ],
+      "topScore": 0.6685131200994351
+    },
+    {
+      "message": "formato de concepto uso de suelo ",
+      "timestamp": "05/11/2025, 12:25:05",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [uso de suelos, curaduría, certificación, trámite]Pregunta: ¿Cómo puedo solicitar certificado sobre el uso de suelos?Respuesta: Debes acercarte a la Curaduría, donde necesitarás presentar la certificación de tradición y libertad, realizar un oficio de solicitud donde indiques tu necesidad y efectuar el pago correspondiente según lo indique la entidad."
+      ],
+      "topScore": 0.6946400808458029
+    }
+  ],
+  "70d187b2-c007-4601-9171-1ab01a1899ce": [
+    {
+      "message": "virtualmente aparece que ya tengo usuario pero no tengo la clave ni el correo a donde llega la clave dinamica",
+      "timestamp": "05/11/2025, 14:51:08",
+      "context": [
+        "Categoría: Atención al CiudadanoTags: [usuario, contraseña, recuperación, acceso, trámites en línea]Pregunta: He olvidado el usuario y la clave para descargar un certificado o realizar un trámite en línea.Respuesta: Si olvidaste tu usuario o clave de acceso, ingresa al portal donde realizaste el trámite y selecciona la opción “¿Olvidó su contraseña?” o “Recuperar usuario”. Si el sistema no permite la recuperación automática, comunícate con la entidad o dependencia encargada del trámite para recibir apoyo en la recuperación de tu acceso."
+      ],
+      "topScore": 0.6887706164638427
+    }
+  ],
+  "27af121a-da37-4355-80a4-b11c9c8b3efc": [
+    {
+      "message": "es que el dia de ayer solicite un certificado de residencia y escribi mal el nombre y me loexpidieron igual sin embargo yo envie la copia de la cedula",
+      "timestamp": "05/11/2025, 15:05:40",
+      "context": [
+        "Categoría: Planeación\n\nTags: [estrato, nomenclatura, certificados, trámites]\n\nPregunta: ¿Cómo solicitar el Certificado de Estrato y Nomenclatura?\n\nRespuesta: El Certificado de Estrato y Nomenclatura se puede obtener en línea, ingresando con el código catastral de 15 o 30 dígitos en el portal de la Alcaldía, o presencialmente en la oficina de atención al usuario. En la modalidad presencial se deben presentar documentos como escrituras, certificado de tradición y libertad, recibo predial y, en algunos casos, planos o resoluciones de adjudicación."
+      ],
+      "topScore": 0.6756863603167427
+    },
+    {
+      "message": "q debo hacer",
+      "timestamp": "05/11/2025, 15:05:43",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, levantamiento, pagos]\n\nPregunta: ¿Qué debo hacer para levantar un embargo?\n\nRespuesta: Pagar la totalidad de la deuda y radicar los soportes en el CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6547435970732359
+    },
+    {
+      "message": "a nombre de ISMAEL JIMENEZ pero llego como ISAMEL JIMENEZ",
+      "timestamp": "05/11/2025, 15:06:54",
+      "context": [],
+      "topScore": 0.6436284502344425
+    },
+    {
+      "message": "PARA CAMBIAR EL NOMBRE EN EL CERTIFICADO DE RESIDENCIA",
+      "timestamp": "05/11/2025, 15:16:11",
+      "context": [
+        "Categoría: Secretaría de HaciendaTags: [nomenclatura, dirección, estratificación, planeación]Pregunta: ¿Dónde puedo ver la nomenclatura de mi casa?Respuesta: Debes acercarte a la Secretaría de Planeación para solicitar el certificado de estratificación o realizar el proceso en línea a través del portal [Nomenclatura](https://yopal.gov.co/estratificacion/estratifica_online/). Cabe resaltar que este trámite no aplica para la primera solicitud de dirección."
+      ],
+      "topScore": 0.681356179225577
+    }
+  ],
+  "83f6e491-9e74-4d7f-91c6-04a24c5552a9": [
+    {
+      "message": "para descargarlo no se puede directamente de la pagina?",
+      "timestamp": "05/11/2025, 15:18:12",
+      "context": [
+        "Categoría: Secretaría de Hacienda – Impuesto Predial\n\nTags: [predial, pago en línea, recibo]\n\nPregunta: ¿Se puede pagar el Impuesto Predial en línea? | ¿Se puede pagar el recibo Predial en línea?\n\nRespuesta: Sí. El municipio dispone de una plataforma en línea para realizar pagos electrónicos o descargar el recibo de pago."
+      ],
+      "topScore": 0.6585441528775373
+    }
+  ],
+  "b12cc176-7b86-44c7-9d2f-6e3757a18d39": [
+    {
+      "message": "ISMAEL JIMENEZ",
+      "timestamp": "05/11/2025, 15:19:23",
+      "context": [],
+      "topScore": 0.5778271798398416
+    },
+    {
+      "message": "ME ENVIARON EL CERTIFICADO CON EL NOMBRE MAL residencia",
+      "timestamp": "05/11/2025, 15:19:49",
+      "context": [
+        "Categoría: Secretaría de Planeación – Catastro\n\nTags: [catastro, cédula catastral, matrícula inmobiliaria]\n\nPregunta: ¿Cómo puedo obtener la cédula catastral con la matrícula inmobiliaria?\n\nRespuesta: Solicita un turno en Planeación para obtener un certificado de nomenclatura donde aparece la cédula catastral, sin costo."
+      ],
+      "topScore": 0.6935756848034527
+    },
+    {
+      "message": "EL DIA DE AYER SOLICITAMOS EL CERTIFICADO DE RESIDENCIA POR ERROR HUMANO ENVIAMOS CON EL NOMBRE MAL",
+      "timestamp": "05/11/2025, 15:20:44",
+      "context": [
+        "Categoría: Atención al CiudadanoTags: [usuario, contraseña, recuperación, acceso, trámites en línea]Pregunta: He olvidado el usuario y la clave para descargar un certificado o realizar un trámite en línea.Respuesta: Si olvidaste tu usuario o clave de acceso, ingresa al portal donde realizaste el trámite y selecciona la opción “¿Olvidó su contraseña?” o “Recuperar usuario”. Si el sistema no permite la recuperación automática, comunícate con la entidad o dependencia encargada del trámite para recibir apoyo en la recuperación de tu acceso."
+      ],
+      "topScore": 0.6633599901508843
+    },
+    {
+      "message": "Y ASI NOS LLEGO",
+      "timestamp": "05/11/2025, 15:20:54",
+      "context": [],
+      "topScore": 0.5760423613082027
+    }
+  ],
+  "ee18d7dd-5d78-482a-889c-5c8862648cd7": [
+    {
+      "message": "lllevo mas de un año  solicitando que envien una carta del  levantamiento de una medidad cautelar y no ha sido posible",
+      "timestamp": "05/11/2025, 19:26:41",
+      "context": [],
+      "topScore": 0.6358444176919518
+    }
+  ],
+  "3eed7b73-b9b9-4674-855a-28cce8a3c145": [
+    {
+      "message": "quiero pasar una propuesta comunitaria",
+      "timestamp": "05/11/2025, 20:56:36",
+      "context": [],
+      "topScore": 0.6368781478617442
+    },
+    {
+      "message": "rapido",
+      "timestamp": "05/11/2025, 20:56:46",
+      "context": [],
+      "topScore": 0.6221794588622013
+    },
+    {
+      "message": "correo",
+      "timestamp": "05/11/2025, 20:57:28",
+      "context": [],
+      "topScore": 0.6441190362912652
+    },
+    {
+      "message": "necesito correo",
+      "timestamp": "05/11/2025, 20:57:34",
+      "context": [],
+      "topScore": 0.643259239476665
+    }
+  ],
+  "b82d1619-d713-4fc0-8571-020f81183d7e": [
+    {
+      "message": "Averiguar proyectos vis",
+      "timestamp": "06/11/2025, 06:37:20",
+      "context": [],
+      "topScore": 0.6395776137064993
+    }
+  ],
+  "f618a3ea-48d2-4686-93de-37f69d5bdddf": [
+    {
+      "message": "EXTENSION HACIENDA MUNICIPAL",
+      "timestamp": "06/11/2025, 08:31:23",
+      "context": [
+        "Categoría: Archivo\n\nTags: [archivo, documentación, contacto]\n\nPregunta: ¿Cuál es el número de teléfono del Archivo Municipal?\n\nRespuesta: 608 634 5913 Ext. 1034"
+      ],
+      "topScore": 0.6640585853973695
+    }
+  ],
+  "b2ec80c3-d232-443e-85fc-1dc8ceb863e0": [
+    {
+      "message": "¿que puedes hacer?",
+      "timestamp": "06/11/2025, 11:02:11",
+      "context": [],
+      "topScore": 0.6211065224659094
+    }
+  ],
+  "79155650-016e-4be8-8e99-d47fcc202d17": [
+    {
+      "message": "cuanto se demora en responder el correo ",
+      "timestamp": "06/11/2025, 11:06:31",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [paz y salvo, expedición, tiempo]\n\nPregunta: ¿Cuánto tiempo se demora la expedición del paz y salvo?\n\nRespuesta: Generalmente el mismo día, aunque depende de la verificación de pagos."
+      ],
+      "topScore": 0.6854089038017107
+    }
+  ],
+  "6b1c9ffe-9b7e-4a3a-9d25-450e047a19f7": [
+    {
+      "message": "Quiero hacer seguimiento a unos radicados",
+      "timestamp": "06/11/2025, 11:21:54",
+      "context": [],
+      "topScore": 0.6223052499864201
+    }
+  ],
+  "ccb822ac-03dd-4c6d-b1f0-2122f7f79880": [
+    {
+      "message": "Y el número ",
+      "timestamp": "06/11/2025, 11:43:36",
+      "context": [],
+      "topScore": 0.632823251150131
+    }
+  ],
+  "9d2c0a04-7b0d-40c8-be73-b86cdc486d18": [
+    {
+      "message": "Como ago para escribirme en la base de datos de personas discapacitadas ",
+      "timestamp": "06/11/2025, 12:29:33",
+      "context": [],
+      "topScore": 0.6435334323578003
+    },
+    {
+      "message": "Como ago para inscribirme en la alcaldía como persona discapacitada ",
+      "timestamp": "06/11/2025, 12:30:09",
+      "context": [
+        "Categoría: Secretaría de SaludTags: [certificado de discapacidad, gestión diferencial, requisitos, salud]\n\nPregunta: ¿Cómo puedo obtener el Certificado de Discapacidad en Yopal?Respuesta:\n\nEnvía un correo a discapacidadsalud@yopal-casanare.gov.co. con la siguiente información y documentación.\n\nInformación:\n\nEn el correo debes especificar Nombres y apellidos completos de la persona a certificarse\n\nTipo y numero de documento de identificación \n\n2 números de celular de contacto.\n\ndirección y municipio de residencia. \n\nDocumentación en formato pdf:\n\nDocumento de identidad\n\nHistoria clínica que incluya: Diagnostico CIE 10 relacionado con la discapacidad\n\nSoportes de apoyo Diagnóstico emitidos por el medico tratante de la EPS (Entidad Promotora de Salud), relacionados con la discapacidad. \n\n\n\nLa Oficina de Gestión Diferencial es la encargada de realizar la valoración y expedir el certificado, ubicada en la Secretaría de Salud, Colegio Braulio González Sede Centro."
+      ],
+      "topScore": 0.6929529699496684
+    }
+  ],
+  "a6330947-dbac-4966-b8aa-7d8c28b0a8ba": [
+    {
+      "message": "a ,,, solo presencial",
+      "timestamp": "06/11/2025, 12:40:57",
+      "context": [],
+      "topScore": 0.6267954160941224
+    },
+    {
+      "message": "solo presencial?",
+      "timestamp": "06/11/2025, 12:41:27",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [acuerdo de pago, trámites presenciales, CACY]\n\nPregunta: ¿Debe uno ir personalmente a realizar el proceso?\n\nRespuesta: Sí, el proceso debe hacerse presencialmente en la oficina del CACY (Centro de Atención al Ciudadano de Yopal)."
+      ],
+      "topScore": 0.6694549160721727
+    }
+  ],
+  "cd859ad8-6e8f-4c5b-a6d4-5bb773671aee": [
+    {
+      "message": "Ayudas adulto mayor",
+      "timestamp": "06/11/2025, 13:52:40",
+      "context": [],
+      "topScore": 0.6385641319981187
+    }
+  ],
+  "a4c5def0-7cfc-42aa-9150-daf2f8c9cc89": [
+    {
+      "message": "Vivo en villa David y me interesa ponerme al día pero están cobrando una suma exagerada ",
+      "timestamp": "06/11/2025, 14:51:21",
+      "context": [],
+      "topScore": 0.6430976875565059
+    },
+    {
+      "message": "Por lo menos dirigirme a una página para consultar directamente entonces ",
+      "timestamp": "06/11/2025, 14:53:04",
+      "context": [],
+      "topScore": 0.6223543434723708
+    }
+  ],
+  "6da4c08e-2c83-47b7-a3ac-3e8e1757e41c": [
+    {
+      "message": "Quiero saber como puedo aplicar para empleo en la alcaldía o a los subsidios que el gobierno otorga",
+      "timestamp": "06/11/2025, 16:27:23",
+      "context": [
+        "Categoría: Salud – Movilidad EPSTags: [salud, EPS, régimen contributivo, régimen subsidiado, pérdida de empleo, afiliación]\n\nPregunta: ¿Qué debo hacer si pierdo mi empleo y necesito pasar de una EPS del Régimen Contributivo al Subsidiado?Respuesta:\n\nSolicitar la Encuesta SISBÉN IV en las oficinas de la TRIADA o la CASA DE LA MUJER en Yopal.\n\nCon el resultado, pedir la movilidad descendente en tu EPS (Entidad Promotora de Salud) actual.\n\nAlternativamente, si ya fue tramitado tu retiro, puedes afiliarte directamente en Capresoca, Coosalud o Nueva EPS, o en la Oficina de Aseguramiento de la Secretaría de Salud Municipal."
+      ],
+      "topScore": 0.6797738335047117
+    },
+    {
+      "message": "Como hago para obtener un subsidio de los que gobierno esta dando",
+      "timestamp": "06/11/2025, 16:28:22",
+      "context": [
+        "Categoría: Salud – Movilidad EPSTags: [salud, EPS, régimen subsidiado, régimen contributivo, empleo, afiliación]\n\nPregunta: ¿Qué debo hacer si estoy en el Régimen Subsidiado y empiezo a trabajar para pasar al Contributivo?Respuesta: Debes solicitar la movilidad ascendente en tu EPS (Entidad Promotora de Salud) actual y pagar el primer mes de aportes tanto a Salud como a Pensión."
+      ],
+      "topScore": 0.6897139326118019
+    }
+  ],
+  "9fe999c5-ccd4-41b4-b550-645e88debf12": [
+    {
+      "message": "Pero estoy en la ciudad de Bogotá ",
+      "timestamp": "06/11/2025, 19:00:12",
+      "context": [
+        "Categoría: Administración\n\nTags: [alcaldía, sede principal, ubicación, dirección]\n\nPregunta: ¿Dónde queda la Alcaldía? | ¿Dónde está ubicada la Alcaldía?\n\nRespuesta: La Alcaldía de Yopal está ubicada en la Diagonal 15 # 15-21."
+      ],
+      "topScore": 0.6668645052077512
+    }
+  ],
+  "716a1198-6d21-4687-bcf0-3c63d745b841": [
+    {
+      "message": "Es me dijeron q tenia un embargo  en esa entidad",
+      "timestamp": "07/11/2025, 05:48:52",
+      "context": [
+        "Categoría: Secretaría de Hacienda\n\nTags: [embargo, deudas, pagos]\n\nPregunta: ¿Qué debo hacer si me llega una solicitud de registro de embargo?\n\nRespuesta: Debe pagar las deudas referenciadas en el documento lo más pronto posible para evitar el embargo."
+      ],
+      "topScore": 0.6955738795514712
+    }
+  ]
+}

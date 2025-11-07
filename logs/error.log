@@ -1,0 +1,546 @@
+[2025-10-08 08:40:16] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Necesito un paz y Salvo del impuesto predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 08:40:17] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Necesito un paz y Salvo del impuesto predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 08:40:49] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Paz y Salvo impuesto  predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 08:40:49] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Paz y Salvo impuesto  predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 08:41:08] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 08:41:08] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 12:29:23] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Por favor necesito un paz y Salvo de predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 12:29:23] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Por favor necesito un paz y Salvo de predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 12:29:39] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Paz y Salvo ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 12:29:39] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "Paz y Salvo ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 15:56:09] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "certificado uso de suelos..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 15:56:09] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "certificado uso de suelos..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #1: "Categoría: Administración
+
+Tags: [alcaldía, sede principal, ubicación, dirección..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #2: "Categoría: Administración
+
+Tags: [horarios, atención, oficinas, alcaldía]
+
+Pregu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #3: "Categoría: Gobierno Municipal
+
+Tags: [alcalde , nombres, responsables]
+
+Pregunta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #4: "Categoría: Gobierno Municipal
+
+Tags: [secretarías, directivos, secretarios, nomb..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #5: "Categoría: Gobierno Municipal
+
+Tags: [direcciones, nombres, responsables]
+
+Pregu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #6: "Categoría: Gobierno Municipal
+
+Tags: [oficina, asesor, atención, gestión]
+
+Pregu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #7: "Categoría: Salud
+
+Tags: [secretaría de salud, ubicación, servicios, trámites]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #8: "Categoría: Movilidad
+
+Tags: [movilidad, tránsito, tráfico, transporte]
+
+Pregunta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #9: "Categoría: Servicios públicos
+
+Tags: [sayop, acueducto, alcantarillado, empresa]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #10: "Categoría: Deporte y Recreación
+
+Tags: [idry, deporte, recreación, instituto]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:45] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #11: "Categoría: Vivienda y Desarrollo
+
+Tags: [indev, vivienda, desarrollo]
+
+Pregunta:..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #12: "Categoría: Desarrollo económico
+
+Tags: [ganadería, agricultura, desarrollo econó..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #13: "Categoría: Desarrollo económico
+
+Tags: [ganado, marcación, permisos, hierros]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #14: "Categoría: Desarrollo social
+
+Tags: [ifey, financiamiento, promoción, desarrollo..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #15: "Categoría: Salud
+
+Tags: [afiliación, régimen subsidiado, EPS, sisbén]
+
+Pregunta:..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #16: "Categoría: Salud
+
+Tags: [eps, traslado, cambio de municipio]
+
+Pregunta: ¿Qué deb..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #17: "Categoría: Salud
+
+Tags: [portabilidad, EPS, traslado temporal, traslado definiti..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #18: "Categoría: Salud
+
+Tags: [urgencias, visitantes, atención médica, hospitales]
+
+Pr..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #19: "Categoría: Salud
+
+Tags: [afiliación, sisbén, excepciones, poblaciones especiales..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #20: "Categoría: Programas Sociales
+
+Tags: [renta ciudadana, transferencias monetarias..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #21: "Categoría: Secretaría de Gobierno
+
+Tags: [juntas de acción comunal, JAC, partici..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #22: "Categoría: Secretaría de Planeación
+
+Tags: [avalúo catastral, reclamos catastral..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #23: "Categoría: Secretaría de Planeación
+
+Tags: [uso del suelo, legalidad de lotes, l..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #24: "Categoría: Salud – Afiliación EPSTags: [salud, EPS, régimen subsidiado, migrante..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #25: "Categoría: Salud – Atención al CiudadanoTags: [ IPS (INSTITUCIÓN PRESTADORA DE S..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #26: "Categoría: Salud – Movilidad EPSTags: [salud, EPS, régimen contributivo, régimen..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #27: "Categoría: Salud – Movilidad EPSTags: [salud, EPS, régimen subsidiado, régimen c..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #28: "Categoría: Salud PúblicaTags: [salud, vectores, dengue, fiebre amarilla, chagas,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #29: "Categoría: Salud – Trámites SanitariosTags: [salud, concepto sanitario, negocios..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #30: "Categoría: Secretaría de SaludTags: [salud mental, atención psicológica, oficina..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #31: "Categoría: Secretaría de SaludTags: [certificado de discapacidad, gestión difere..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #32: "Categoría: Secretaría de SaludTags: [vacunación, vacunación eps, ese salud yopal..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #33: "Categoría: Secretaría de SaludTags: [vacunación animal, zoonosis, quejas animale..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #34: "Categoría: Salud
+
+Tags: [afiliación, traslado, movilidad, mi seguridad social]
+
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #35: "Categoría: Secretaría de SaludTags: [seguridad alimentaria, requisitos sanitario..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #36: "Categoría: Secretaría de PlaneaciónTags: [catastral, gestor catastral, trámites,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #37: "Categoría: Secretaría de HaciendaTags: [impuesto predial, revisión de tarifa, de..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #38: "Categoría: Secretaría de HaciendaTags: [impuesto predial unificado, cambio propi..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #39: "Categoría: Secretaría de HaciendaTags: [factura ipu, descarga factura, impuesto ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #40: "Categoría: Secretaría de HaciendaTags: [impuesto de delineación urbana, gravamen..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #41: "Categoría: Secretaría de HaciendaTags: [impuesto delineación, contribuyentes, li..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #42: "Categoría: Secretaría de HaciendaTags: [delineación urbana, criterios liquidació..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #43: "Categoría: Secretaría de HaciendaTags: [delineación urbana, base gravable, impue..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #44: "Categoría: Secretaría de HaciendaTags: [delineación urbana, tarifa general, impu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #45: "Categoría: Secretaría de HaciendaTags: [delineación urbana, tarifas especiales, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #46: "Categoría: Secretaría de HaciendaTags: [delineación urbana, pago único, reconoci..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #47: "Categoría: Secretaría de HaciendaTags: [delineación urbana, presupuesto impuesto..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #48: "Categoría: Secretaría de HaciendaTags: [delineación urbana, liquidación impuesto..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #49: "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #50: "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #51: "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #52: "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #53: "Categoría: Secretaría de Hacienda – Impuesto de Delineación UrbanaTags: [impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #54: "Categoría: Secretaría de Hacienda – Tributos MunicipalesTags: [estatuto tributar..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #55: "Categoría: Secretaría de Hacienda – RITYTags: [rity, registro tributario, contri..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #56: "Categoría: Secretaría de Hacienda – RITYTags: [rity, actualización de datos, imp..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #57: "Categoría: Secretaría de Hacienda – ICATags: [impuesto de industria y comercio, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #58: "Categoría: Secretaría de Hacienda – ICATags: [ica, declaración bimestral, person..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #59: "Categoría: Secretaría de Hacienda – ICATags: [ica, declaración anual, régimen pr..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #60: "Categoría: Secretaría de Hacienda – ICATags: [ica, tarifas, decreto 100 de 2023]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #61: "Categoría: Secretaría de Hacienda – Tributos MunicipalesTags: [sanciones tributa..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #62: "Categoría: Secretaría de Hacienda – ICATags: [ica, métodos de pago, pse, bancos ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #63: "Categoría: Secretaría de Hacienda – Impuesto de Industria y Comercio
+
+Tags: [ICA..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #64: "Categoría: Secretaría de Hacienda – Impuesto de Industria y Comercio
+
+Tags: [ICA..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #65: "Categoría: Alcaldía de Yopal – Atención al Ciudadano
+
+Tags: [contacto, correspon..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #66: "Categoría: Secretaría de Hacienda – Impuesto Predial
+
+Tags: [predial, consulta v..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #67: "Categoría: Secretaría de Hacienda – Impuesto Predial
+
+Tags: [predial, pago en lí..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #68: "Categoría: Secretaría de Hacienda – Impuesto Predial
+
+Tags: [predial, fechas de ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #69: "Categoría: Secretaría de Hacienda – Impuesto Predial
+
+Tags: [predial, mora, sanc..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #70: "Categoría: Secretaría de Hacienda – Catastro
+
+Tags: [predial, catastro, errores ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #71: "Categoría: Secretaría de Planeación – Catastro
+
+Tags: [catastro, cédula catastra..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #72: "Categoría: Secretaría de Hacienda – Impuesto Predial
+
+Tags: [predial, normativa,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #73: "Categoría: Secretaría de Hacienda – Impuesto de Vehículos Públicos
+
+Tags: [vehíc..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #74: "Categoría: Secretaría de Hacienda – Impuesto de Vehículos Públicos
+
+Tags: [vehíc..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #75: "Categoría: Secretaría de Hacienda – Impuesto de Vehículos Públicos
+
+Tags: [vehíc..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #76: "Categoría: Secretaría de Hacienda – Impuesto de Vehículos Públicos
+
+Tags: [vehíc..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #77: "Categoría: Secretaría de Hacienda – Finanzas Municipales
+
+Tags: [comprobante de ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #78: "Categoría: Secretaría de Hacienda – Finanzas Municipales
+
+Tags: [comprobante de ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #79: "Categoría: Hacienda
+
+Tags: [comprobante de ingreso, duplicado, trámites, CACY]
+
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #80: "Categoría: Hacienda
+
+Tags: [paz y salvo, vehículos, impuestos, obligaciones trib..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #81: "Categoría: Hacienda
+
+Tags: [paz y salvo, vehículos, trámites, CACY]
+
+Pregunta: ¿..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #82: "Categoría: Hacienda
+
+Tags: [paz y salvo, vehículos, tiempos de entrega]
+
+
+
+Pregu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #83: "Categoría: Planeación
+
+Tags: [estrato, nomenclatura, certificados, trámites]
+
+Pr..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #84: "Categoría: Educación
+
+Tags: [matrícula, cupo escolar, colegios públicos, educaci..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #85: "Categoría: Educación
+
+Tags: [matrícula, documentos, colegios públicos]
+
+Pregunta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #86: "Categoría: Educación
+
+Tags: [cupo escolar, Secretaría de Educación, atención ciu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #87: "Categoría: Educación
+
+Tags: [colegios públicos, sedes educativas, Yopal]
+
+Pregun..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #88: "Categoría: Educación
+
+Tags: [colegios públicos, consulta, información en línea, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #89: "Categoría: Medio Ambiente
+
+Tags: [RCD, disposición final, residuos de construcci..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #90: "Categoría: Medio Ambiente
+
+Tags: [escombrera, residuos de construcción, demolici..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #91: "Categoría: Medio Ambiente
+
+Tags: [escombrera, residuos de construcción, demolici..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #92: "Categoría: Medio Ambiente
+
+Tags: [escombrera, residuos no aceptados, RCD, manejo..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #93: "Categoría: Servicios Públicos
+
+Tags: [servicios públicos, certificación, área ru..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #94: "Categoría: Servicios Públicos
+
+Tags: [servicios públicos, urbanizaciones, loteos..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #95: "Categoría: Servicios Públicos
+
+Tags: [solicitud, servicios públicos, trámite]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #96: "Categoría: Planeación y Vivienda
+
+Tags: [construcción rural, servicios básicos, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #97: "Categoría: Atención al Ciudadano
+
+Tags: [PQRSD, certificación, trámites ciudadan..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #98: "Categoría: Atención al Ciudadano
+
+Tags: [PQRSD, CACY, cartelera, publicaciones]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #99: "Categoría: Atención al Ciudadano
+
+Tags: [PQRSD, buzones, participación ciudadana..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #100: "Categoría: Planeación y Vivienda
+
+Tags: [licencia de construcción, requisitos, C..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #101: "Categoría: Atención al Ciudadano
+
+Tags: [certificado de valoración, impuestos, C..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #102: "Categoría: Atención al Ciudadano
+
+Tags: [certificado de ejecutoria, resoluciones..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #103: "Categoría: Planeación – SISBÉN
+
+Tags: [SISBÉN, encuesta, requisitos, documentaci..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #104: "Categoría: Planeación – SISBÉN
+
+Tags: [SISBÉN, extranjeros, PPT, cédula de extra..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #105: "Categoría: Planeación – SISBÉN
+
+Tags: [SISBÉN, radicación, solicitud, autogestió..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #106: "Categoría: Rentas e Impuestos
+
+Tags: [estatuto tributario, tarifas, decretos]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #107: "Categoría: Rentas e Impuestos
+
+Tags: [sanciones, tributos, UVT]
+
+Pregunta: ¿Cuál..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #108: "Categoría: Rentas e Impuestos
+
+Tags: [firma electrónica, universo online, ICA]
+
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #109: "Categoría: Rentas e Impuestos
+
+Tags: [universo online, recuperación, contraseña]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #110: "Categoría: Rentas e Impuestos
+
+Tags: [pago de impuestos, Yopal, universo online]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #111: "Categoría: Rentas e Impuestos
+
+Tags: [plazos tributarios, ICA, rete ICA, exógena..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #112: "Categoría: Educación
+
+Tags: [PAE, alimentación escolar, educación]
+
+Pregunta: ¿Q..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #113: "Categoría: Educación
+
+Tags: [PAE, acceso, requisitos, cobertura]
+
+Pregunta: ¿Cóm..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #114: "Categoría: Comercio
+
+Tags: [apertura, requisitos, local comercial, licencias]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #115: "Categoría: Rentas e Impuestos
+
+Tags: [impuestos, locales comerciales, rentas]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #116: "Categoría: Salud
+
+Tags: [concepto sanitario, formato, alcaldía]
+
+Pregunta: ¿Dónd..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #117: "Categoría: Comercio
+
+Tags: [Sayco, Acinpro, derechos de autor, música]
+
+Pregunta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #118: "Categoría: Salud
+
+Tags: [vectores, plagas, salud pública]
+
+Pregunta: ¿A quién ac..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #119: "Categoría: Rentas e Impuestos
+
+Tags: [paz y salvo vehicular, estado de cuenta, i..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #120: "Categoría: Planeación y Tierras
+
+Tags: [restitución de tierras, oficinas, Yopal]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #121: "Categoría: Planeación
+
+Tags: [veredas, certificado de existencia, planeación]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #122: "Categoría: Medio Ambiente
+
+Tags: [medio ambiente, cambio climático, secretaría]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #123: "Categoría: Atención al Ciudadano
+
+Tags: [secretarías, dependencias, directorio]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #124: "Categoría: Rentas e Impuestos
+
+Tags: [paz y salvo predial, sello seco, trámites ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #125: "Categoría: Planeación
+
+Tags: [POT, ordenamiento territorial, planeación]
+
+Pregun..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #126: "Categoría: Salud
+
+Tags: [certificado sanitario vehicular, alimentos, transporte]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #127: "Categoría: Movilidad
+
+Tags: [certificado de movilidad, trámites, radicado]
+
+Preg..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #128: "Categoría: Programas Sociales
+
+Tags: [renta ciudadana, traslado, beneficios]
+
+Pr..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #129: "Categoría: Rentas e Impuestos
+
+Tags: [comprobante de ingreso, rendimiento financ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #130: "Categoría: Rentas e Impuestos
+
+Tags: [comprobante de ingreso, multas, sanciones]..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #131: "Categoría: Salud
+
+Tags: [tanatopraxia, laboratorio, comprobante de ingreso]
+
+Pre..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #132: "Categoría: Rentas e Impuestos
+
+Tags: [paz y salvo, trámites, impuestos prediales..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #133: "Categoría: Secretaría de Gobierno
+
+Tags: [exhumación, cementerios, trámites fune..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #134: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, bancos, pagos, tribu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #135: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, pagos rápidos, banco..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #136: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, pagos en línea, PSE,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #137: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, definición, tributos..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #138: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, consulta, valor a pa..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #139: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, pagos electrónicos, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #140: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, descuentos, fechas l..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #141: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, mora, sanciones, int..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #142: "Categoría: Secretaría de Hacienda
+
+Tags: [impuesto predial, descuentos, plazos, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #143: "Categoría: Secretaría de Hacienda – Impuesto Vehículos Públicos (Pago)
+
+Tags: [v..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #144: "Categoría: Secretaría de Hacienda
+
+Tags: [vehículos públicos, impuestos, documen..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #145: "Categoría: Secretaría de Hacienda
+
+Tags: [vehículos públicos, sanciones, impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #146: "Categoría: Secretaría de Hacienda
+
+Tags: [vehículos públicos, beneficios, descue..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #147: "Categoría: Secretaría de Hacienda
+
+Tags: [vehículos públicos, estado de cuenta, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #148: "Categoría: Secretaría de Hacienda
+
+Tags: [comprobante de ingreso, pagos, impuest..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #149: "Categoría: Secretaría de Hacienda
+
+Tags: [comprobante de ingreso, CACY, trámites..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #150: "Categoría: Secretaría de Hacienda
+
+Tags: [comprobante de ingreso, duplicado, trá..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #151: "Categoría: Secretaría de Hacienda
+
+Tags: [paz y salvo, impuestos, obligaciones]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #152: "Categoría: Secretaría de Hacienda
+
+Tags: [paz y salvo, CACY, trámites]
+
+Pregunta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #153: "Categoría: Secretaría de Hacienda
+
+Tags: [paz y salvo, expedición, tiempo]
+
+Preg..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #154: "Categoría: Secretaría de Hacienda
+
+Tags: [paz y salvo, costo, trámites]
+
+Pregunt..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #155: "Categoría: Secretaría de Hacienda
+
+Tags: [acuerdo de pago, impuestos, facilidade..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #156: "Categoría: Secretaría de Hacienda
+
+Tags: [acuerdo de pago, predial, garantías]
+
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #157: "Categoría: Secretaría de Hacienda
+
+Tags: [acuerdo de pago, trámites presenciales..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #158: "Categoría: Secretaría de Hacienda
+
+Tags: [patrimonio familiar, certificado, inem..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #159: "Categoría: Secretaría de Hacienda
+
+Tags: [embargo, registro, cuentas bancarias]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #160: "Categoría: Secretaría de Hacienda
+
+Tags: [embargo, deudas, pagos]
+
+Pregunta: ¿Qu..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #161: "Categoría: Secretaría de Hacienda
+
+Tags: [embargo, levantamiento, pagos]
+
+Pregun..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #162: "Categoría: Secretaría de Hacienda
+
+Tags: [embargo, prevención, acuerdo de pago]
+..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #163: "Categoría: Secretaría de Hacienda
+
+Tags: [resoluciones, acuerdos de pago, trámit..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #164: "Categoría: Secretaría de Hacienda
+
+Tags: [resolución, acuerdos de pago, document..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #165: "Categoría: Secretaría de Hacienda
+
+Tags: [acuerdo de pago, incumplimiento, cuota..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #166: "Categoría: Secretaría de Hacienda
+
+Tags: [garantía, embargo, acuerdo de pago]
+
+P..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #167: "Categoría: Secretaría de HaciendaTags: [estampilla, pago, contratistas]Pregunta:..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #168: "Categoría: Secretaría de PlaneaciónTags: [certificado, sana posesión, planeación..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #169: "Categoría: Secretaría de HaciendaTags: [firma, declaración, CACY, firma electrón..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #170: "Categoría: contacto alcaldía y sus extensiones 
+
+Tags: [contacto, teléfono, aten..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #171: "Categoría: Generar Firma Electrónica ICA Tags: [firma electrónica, CACY, trámite..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #172: "Categoría: Secretaría de HaciendaTags: [certificado, residencia, CACY, trámite e..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #173: "Categoría: Secretaría de planeaciónTags: [estratificación, dirección, planeación..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #174: "Categoría: Secretaría de HaciendaTags: [firma, declaración, firma electrónica, i..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #175: "Categoría: Normatividad de Industria y ComercioTags: [industria y comercio, norm..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #176: "Categoría: Secretaría de HaciendaTags: [estampilla, pago, liquidar, contratistas..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #177: "Categoría: Secretaría de HaciendaTags: [nomenclatura, dirección, estratificación..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #178: "Categoría: Comunicación con un AsesorTags: [asesor, atención al ciudadano, conta..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #179: "Categoría: Secretaría de planeacionTags: [delineación urbana, pago, liquidación,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #180: "Categoría: Secretaría de HaciendaTags: [impuesto vehicular, pago, vehículos públ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #181: "Categoría: Secretaría de HaciendaTags: [uso de suelos, curaduría, certificación,..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:09:46] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk #182: "Categoría: Secretaría de planeación Tags: [estratificación, nomenclatura, CACY, ..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-08 17:10:35] [31merror[39m: ❌ Error inesperado en getEmbedding para chunk : "pagar impuesto predial..." request to http://10.0.0.17:1234/v1/embeddings failed, reason: connect ECONNREFUSED 10.0.0.17:1234
+[2025-10-09 09:17:38] [31merror[39m: ❌ Error HTTP 400 al pedir embedding para chunk #170 (len=2385):

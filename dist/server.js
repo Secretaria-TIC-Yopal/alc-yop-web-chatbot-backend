@@ -1,89 +1,23 @@
-import express from "express";
-import cors from "cors";
-import fetch from "node-fetch";
-// 👇 Importar RAG sin extensión
-import { loadKnowledge, retrieveContext } from "./rag.js";
-const app = express();
-app.use(cors());
-app.use(express.json());
-const sessions = {};
+import app from "./app.js";
+import { PORT } from "./config/env.js";
+import logger from "./utils/logger.js";
+import { loadKnowledge } from "./utils/rag.js";
+import { sessions } from "./models/session.js";
 const SESSION_EXPIRATION = 30 * 60 * 1000; // 30 min
-// Limpiar sesiones expiradas
 setInterval(() => {
     const now = Date.now();
     for (const id in sessions) {
         const session = sessions[id];
         if (!session)
-            continue; // ✅ evita undefined
-        if (Date.now() - session.lastActive > SESSION_EXPIRATION) {
-            console.log(`🗑️ Sesión ${id} eliminada por inactividad`);
+            continue;
+        if (now - session.lastActive > SESSION_EXPIRATION) {
+            logger.info(`🗑️ Sesión ${id} eliminada por inactividad`);
             delete sessions[id];
         }
     }
 }, 5 * 60 * 1000);
-function isLMResponse(data) {
-    return Array.isArray(data?.choices) && data.choices.every((c) => !!c?.message?.content);
-}
-async function generateAIResponse(messages) {
-    try {
-        const lmResponse = await fetch("http://10.0.0.17:1234/v1/chat/completions", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-                model: "llama-3.1-8b-ultralong-1m-instruct",
-                messages: messages.map(m => ({ role: m.role, content: m.content })),
-                max_tokens: 200,
-                temperature: 0.7,
-                stream: false,
-            }),
-        });
-        const raw = await lmResponse.json();
-        if (!isLMResponse(raw))
-            return "⚠️ Respuesta inesperada del modelo.";
-        return raw.choices[0]?.message?.content ?? "⚠️ Respuesta vacía del modelo.";
-    }
-    catch (err) {
-        console.error(err);
-        return "⚠️ Error al conectar con el modelo de IA.";
-    }
-}
-// ---------------- Endpoint /chat ----------------
-app.post("/chat", async (req, res) => {
-    const { sessionId, message } = req.body;
-    if (!sessionId || !message)
-        return res.status(400).json({ error: "Falta sessionId o mensaje" });
-    if (!sessions[sessionId])
-        sessions[sessionId] = { messages: [], lastActive: Date.now() };
-    const session = sessions[sessionId];
-    session.lastActive = Date.now();
-    session.messages.push({ role: "user", content: message, timestamp: Date.now() });
-    // 🔑 Buscar siempre contexto
-    const context = await retrieveContext(message);
-    const finalMessages = [
-        {
-            role: "system",
-            content: context?.trim()
-                ? `Usa este contexto como referencia del documento:\n${context}`
-                : "No encontré información relevante en el documento. Responde de manera general con tu conocimiento.",
-            timestamp: Date.now(),
-        },
-        ...session.messages,
-    ];
-    const respuesta = await generateAIResponse(finalMessages);
-    session.messages.push({ role: "assistant", content: respuesta, timestamp: Date.now() });
-    res.json({ textResponse: respuesta, contextFound: !!context?.trim() });
-});
-// ---------------- Endpoint /history ----------------
-app.get("/history/:sessionId", (req, res) => {
-    const session = sessions[req.params.sessionId];
-    if (!session)
-        return res.status(404).json({ error: "Sesión no encontrada" });
-    res.json(session.messages);
-});
-// ---------------- Iniciar servidor ----------------
-const PORT = 3001;
 app.listen(PORT, async () => {
-    console.log(`🚀 Backend listo en http://localhost:${PORT}`);
+    logger.info(`🚀 Baaaaackend + Frontend listo en http://localhost:${PORT}`);
     await loadKnowledge();
 });
 //# sourceMappingURL=server.js.map
